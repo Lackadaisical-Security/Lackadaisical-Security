@@ -1,7 +1,7 @@
 # Hello, I'm Lackadaisical Security 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=0CE82B&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Cybersecurity+Professional" alt="Cybersecurity Professional" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Elite+Cybersecurity+Researcher;Full-Stack+Security+Architect;Privacy+%26+Anonymity+Engineer;Advanced+Threat+Hunter;Zero-Knowledge+Protocol+Designer;AI/ML+Security+Specialist;Hardware+%26+Firmware+Analyst;OSINT+%26+Intelligence+Expert;Custom+Exploit+Developer;Never+Lackadaisical+About+Security" alt="Typing SVG" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=00A6FF&center=true&vCenter=true&repeat=false&random=false&width=800&lines=Security+Tools+%7C+Network+Analysis+%7C+Malware+Detection" alt="Security Specialties"/>
   <br><br>
