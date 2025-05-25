@@ -36,7 +36,8 @@ $ whoami
     ├── AI/ML: Security Research, Adversarial ML
     ├── Privacy: Zero-Knowledge, Anonymity Networks
     ├── OSINT: Intelligence Gathering, Reconnaissance
-    └── Full-Stack: Hardware → Cloud Security
+    ├── Full-Stack: Hardware → Cloud Security
+    └──  Everything Else: If it exists, I've coded my own
 
 [*] Active Projects: 15+
 [*] Custom Tools Built: 50+
