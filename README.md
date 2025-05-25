@@ -555,10 +555,10 @@ class LackadaisicalSecurityResearch:
 
 [![Website](https://img.shields.io/badge/🌐_Website-lackadaisical--security.com-00FF00?style=for-the-badge)](https://lackadaisical-security.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Lackadaisical--Security-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lackadaisical-Security)
-[![Secure Contact](https://img.shields.io/badge/🔐_Secure_Contact-PGP/Signal-FF0000?style=for-the-badge)](https://lackadaisical-security.com/contact)
-[![Privacy Tools](https://img.shields.io/badge/🛡️_Download_Tools-Custom_Security-4CAF50?style=for-the-badge)](https://lackadaisical-security.com/tools)
-[![Security Blog](https://img.shields.io/badge/📝_Security_Blog-Research_&_Writeups-FF5722?style=for-the-badge)](https://lackadaisical-security.com/blog)
-[![Training Portal](https://img.shields.io/badge/🎓_Training-Security_Courses-2196F3?style=for-the-badge)](https://lackadaisical-security.com/training)
+[![Secure Contact](https://img.shields.io/badge/🔐_Secure_Contact-XMPP+OTR-FF0000?style=for-the-badge)](thelackadaisicalone@xmpp.jp)
+[![Privacy Tools](https://img.shields.io/badge/🛡️_Download_Tools-Custom_Security-4CAF50?style=for-the-badge)](https://lackadaisical-security.com/products)
+[![Security Blog](https://img.shields.io/badge/📝_Security_Blog-Research_&_Writeups-FF5722?style=for-the-badge)](https://lackadaisical-security.com/blogs)
+[![Training Portal](https://img.shields.io/badge/🎓_Training-Security_Courses-2196F3?style=for-the-badge)](https://lackadaisical-security.com/products/private-custom-request.html)
 
 </div>
 
