@@ -1,6 +1,9 @@
 # Hello, I'm Lackadaisical Security 👋
 
 <div align="center">
+  
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cyberpunk-terminal" width="350"/>
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Privacy+%26+Anonymity+Architect;Custom+Tool+Developer;Full-Stack+Security+Engineer;Zero-Knowledge+Protocol+Designer;AI+Security+Researcher;OSINT+%26+Intelligence+Expert;Never+Lackadaisical+About+Security" alt="Typing SVG" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=00A6FF&center=true&vCenter=true&repeat=false&random=false&width=800&lines=Security+Tools+%7C+Network+Analysis+%7C+Malware+Detection" alt="Security Specialties"/>
@@ -279,6 +282,8 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ### 🎯 **Complete Security Stack Mastery - All 12 Layers**
 
 <div align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhiNzR5YjNtaTh2emNlcHR2Zm1paTNwYTYwOW11bGYxbDhub3h2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJ2sekm3lZsbMX443g/giphy.gif" alt="cyberpunk-terminal" width="350"/>
 
 | **Layer** | **Domain** | **Technologies Mastered** | **Custom Tools** | **Expertise** | **Current Research** |
 |-----------|------------|---------------------------|------------------|---------------|---------------------|
