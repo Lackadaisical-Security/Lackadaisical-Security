@@ -360,9 +360,9 @@ Download utility with security considerations.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lackadaisical-Security&show_icons=true&count_private=true&hide=issues&theme=gotham"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lackadaisical-Security&theme=gotham"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lackadaisical-Security&show_icons=true&count_private=true&hide=issues&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lackadaisical-Security&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lackadaisical-Security&bg_color=0d1117&color=00ffae&line=00ffd0&point=19f9d9&area=true&hide_border=true" alt="activity-graph"/>
 </div>
 
 
