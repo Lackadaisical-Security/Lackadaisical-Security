@@ -100,6 +100,7 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ║ • Website: https://lackadaisical-security.com          ║
 ║ • GitHub: https://github.com/Lackadaisical-Security    ║
 ║ • Research Blog: https://lackadaisical-security.com    ║
+║ • Tool Shop: https://lackadaisical-security.com/shop   ║
 ║ • PGP Key: Available on website                        ║
 ║ • Secure Comms: Multiple channels available            ║
 ║ • Session Details:                                     ║
