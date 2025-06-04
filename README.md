@@ -9,6 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=00A6FF&center=true&vCenter=true&repeat=false&random=false&width=800&lines=Security+Tools+%7C+Network+Analysis+%7C+Malware+Detection" alt="Security Specialties"/>
   <br><br>
   <em>"The name is ironic – there’s nothing lackadaisical about security."</em>
+  
+  Leet Era Dev – Singularity Class Engineer
+  
+  <em>“From crafting hex shellcode on 56k to orchestrating AI-driven zero-dependency stacks, I’ve mastered every layer—because in a world full of script kiddies, being the best is just my baseline.”<em>
 </div>
 
 ---
