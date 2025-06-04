@@ -10,9 +10,10 @@
   <br><br>
   <em>"The name is ironic – there’s nothing lackadaisical about security."</em>
   
-  Leet Era Dev – Singularity Class Engineer
-  
   <em>“From crafting hex shellcode on 56k to orchestrating AI-driven zero-dependency stacks, I’ve mastered every layer—because in a world full of script kiddies, being the best is just my baseline.”<em>
+
+    Leet Era Dev – Singularity Class Engineer
+
 </div>
 
 ---
