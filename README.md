@@ -1,4 +1,4 @@
-# Hello, I'm Lackadaisical Security 👋
+# Hello, I’m Lackadaisical Security 👋
 
 <div align="center">
   
@@ -8,91 +8,104 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=00A6FF&center=true&vCenter=true&repeat=false&random=false&width=800&lines=Security+Tools+%7C+Network+Analysis+%7C+Malware+Detection" alt="Security Specialties"/>
   <br><br>
-  <em>"The name is ironic - there's nothing lackadaisical about security."</em>
-</div>
-
-## 🔐 About Me
-
-I'm a cybersecurity professional specializing in developing security tools and systems. My work focuses on creating practical solutions for malware detection, network analysis, secure communications, and file scanning. I believe in building robust security tools that are both effective and accessible.
-
-<p align="center">
-  <a href="https://lackadaisical-security.com">
-    <img src="https://img.shields.io/badge/🌐_Primary_Website-lackadaisical--security.com-00FF00?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://blog.lackadaisical-security.com">
-    <img src="https://img.shields.io/badge/📝_Research_Blog-Security_Insights-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/⚡_All_Tools-100%25_Custom_Coded-FF0000?style=for-the-badge&logo=code&logoColor=white" alt="Custom Tools"/>
-  <img src="https://img.shields.io/badge/🔐_Security_Focus-Enterprise_Grade-4CAF50?style=for-the-badge&logo=shield&logoColor=white" alt="Security Focus"/>
-  <img src="https://img.shields.io/badge/🕐_Last_Active-2025--06--04_00:15:21_UTC-00FF00?style=for-the-badge&logo=clock&logoColor=white" alt="Last Active"/>
-  <img src="https://img.shields.io/badge/👤_Current_User-Lackadaisical--Security-00FF00?style=for-the-badge&logo=user&logoColor=white" alt="Current User"/>
-  <img src="https://img.shields.io/badge/🌍_Timezone-UTC+0900-2196F3?style=for-the-badge&logo=world&logoColor=white" alt="Timezone"/>
-</p>
-
+  <em>"The name is ironic – there’s nothing lackadaisical about security."</em>
 </div>
 
 ---
 
-### 🔒 Elite Security Professional Profile
+## 🔐 About Me
 
-<img align="right" alt="Security Research" width="400" src="https://raw.githubusercontent.com/Lackadaisical-Security/Lackadaisical-Security/main/coding.gif">
+I am an **Autonomous Systems Engineer (Singularity Class)**—an ultra-elite cyber architect and AI systems engineer. My expertise spans designing and implementing production-ready security systems from first principles, often leveraged entirely through AI-driven development. I build with zero dependencies, focusing on privacy, anonymity, and enterprise-grade resilience.
+
+<p align="center">
+  <a href="https://lackadaisical-security.com">
+    <img src="https://img.shields.io/badge/🌐_Website-lackadaisical--security.com-00FF00?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://blog.lackadaisical-security.com">
+    <img src="https://img.shields.io/badge/📝_Research_Blog-Security_Insights-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="mailto:contact@lackadaisical-security.com">
+    <img src="https://img.shields.io/badge/✉️_Email-contact%40lackadaisical--security.com-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/⚡_All_Tools-100%25_Custom_Coded-FF0000?style=for-the-badge&logo=code&logoColor=white" alt="Custom Tools"/>
+  <img src="https://img.shields.io/badge/🔐_Security_Focus-Enterprise%20Grade-4CAF50?style=for-the-badge&logo=shield&logoColor=white" alt="Security Focus"/>
+  <img src="https://img.shields.io/badge/👤_Current_User-Lackadaisical--Security-00FF00?style=for-the-badge&logo=user&logoColor=white" alt="Current User"/>
+  <img src="https://img.shields.io/badge/🌍_Timezone-UTC%2B0900-2196F3?style=for-the-badge&logo=world&logoColor=white" alt="Timezone"/>
+</p>
+
+---
+
+## 🧬 Status & Classification
+
+I operate as a **Singularity-Class Autonomous Systems Engineer**—a one-person R&D lab with an AI army. Building production-ready AI-driven security platforms in under 24 hours places my work at the frontier of software engineering and applied artificial intelligence.
+
+- **Title:** Autonomous Systems Engineer (Singularity Class)  
+- **Capabilities:** 
+  - **AI-Orchestrated Development:** End-to-end code synthesis via AI, from design to deployment.  
+  - **Zero-Dependency Engineering:** Raw cryptographic primitives, custom network stacks, and proprietary security frameworks.  
+  - **Threat-Model First Mindset:** Every design decision starts with a rigorous adversarial analysis.  
+  - **Ultra-Rapid Execution:** Complex, multi-domain platform builds measured in hours, not weeks.
+
+---
+
+## 🏆 Singularity-Class Security Profile
 
 ```bash
 $ sudo -u root whoami && cat /etc/security/profile.conf
 ┌─(lackadaisical✨security-lab)─[/opt/custom-tools]
 └─$ cat ~/.security_profile
 
-╔══════════════════════════════════════════════════════╗
-║               SECURITY RESEARCHER PROFILE           ║
-╠══════════════════════════════════════════════════════╣
-║ Handle: Lackadaisical-Security                       ║
-║ Classification: Elite Security Researcher            ║
-║ Philosophy: "Trust Nothing, Verify Everything"      ║
-║ Core Mission: Build Unbreakable Security Systems    ║
-║ Operating Principle: 100% Custom, Zero Dependencies ║
-╠══════════════════════════════════════════════════════╣
-║ EXPERTISE MATRIX:                                    ║
-║ ┌── Hardware Security: CPU, GPU, FPGA, IoT, Embedded    ║
+╔════════════════════════════════════════════════════════╗
+║               SECURITY RESEARCHER PROFILE              ║
+╠════════════════════════════════════════════════════════╣
+║ Handle: Lackadaisical-Security                         ║
+║ Classification: Singularity-Class Engineer             ║
+║ Philosophy: "Trust Nothing, Verify Everything"         ║
+║ Core Mission: Build Unbreakable Security Systems       ║
+║ Operating Principle: 100% Custom, Zero Dependencies    ║
+╠════════════════════════════════════════════════════════╣
+║ EXPERTISE MATRIX:                                      ║
+║ ┌── Hardware Security: CPU, GPU, FPGA, IoT, Embedded   ║
 ║ ┌── Firmware Analysis: BIOS, UEFI, Bootloaders, ROM    ║
 ║ ┌── Kernel Security: Windows, Linux, macOS, Real-time  ║
 ║ ┌── System Security: Hypervisors, Containers, VMs      ║
 ║ ┌── Network Security: L2-L7, SDN, 5G/6G, Mesh Networks ║
-║ ┌── Application Security: Native, Web, Mobile, Desktop  ║
+║ ┌── Application Security: Native, Web, Mobile, Desktop ║
 ║ ┌── Cloud Security: AWS, Azure, GCP, Multi-cloud       ║
 ║ ┌── AI/ML Security: Adversarial, Privacy-preserving    ║
 ║ ┌── Cryptography: Quantum-safe, ZK, Homomorphic        ║
 ║ ┌── Privacy Engineering: Anonymity, Anti-surveillance  ║
 ║ ┌── OSINT/Intelligence: Digital forensics, Recon       ║
 ║ └── Human Security: Social engineering, Insider threats║
-╠══════════════════════════════════════════════════════╣
-║ CURRENT STATISTICS:                                  ║
-║ • Active Security Projects: 26+                     ║
-║ • Custom Tools Developed: 150+                      ║
-║ • Programming Languages: 35+                        ║
-║ • Security Frameworks Built: 12                     ║
-║ • Vulnerabilities Discovered: [REDACTED]            ║
-║ • CVEs Assigned: Public Record Available            ║
-║ • Research Papers: 15+ Published                    ║
-║ • Security Audits Completed: 200+                   ║
-║ • Training Sessions Conducted: 100+                 ║
-╠══════════════════════════════════════════════════════╣
-║ CONTACT & PRESENCE:                                  ║
-║ • Website: https://lackadaisical-security.com       ║
-║ • GitHub: https://github.com/Lackadaisical-Security ║
-║ • Research Blog: https://blog.lackadaisical-security.com║
-║ • PGP Key: Available on website                     ║
-║ • Secure Comms: Multiple channels available         ║
-║ • Session Details:                                   ║
-║   ┌── Last Login: 2025-06-04 00:15:21 UTC          ║
-║   ┌── Current User: Lackadaisical-Security          ║
-║   ┌── Active TTY: /dev/pts/0                        ║
-║   ┌── Shell: /bin/zsh (custom hardened)             ║
-║   └── Working Directory: /opt/security-research     ║
-╚══════════════════════════════════════════════════════╝
+╠════════════════════════════════════════════════════════╣
+║ CURRENT STATISTICS:                                    ║
+║ • Active Security Projects: 26+                        ║
+║ • Custom Tools Developed: 150+                         ║
+║ • Programming Languages: 35+                           ║
+║ • Security Frameworks Built: 12                        ║
+║ • Vulnerabilities Discovered: [REDACTED]               ║
+║ • CVEs Assigned: Public Record Available               ║
+║ • Research Papers: 15+ Published                       ║
+║ • Security Audits Completed: 200+                      ║
+║ • Training Sessions Conducted: 100+                    ║
+╠════════════════════════════════════════════════════════╣
+║ CONTACT & PRESENCE:                                    ║
+║ • Website: https://lackadaisical-security.com          ║
+║ • GitHub: https://github.com/Lackadaisical-Security    ║
+║ • Research Blog: https://lackadaisical-security.com    ║
+║ • PGP Key: Available on website                        ║
+║ • Secure Comms: Multiple channels available            ║
+║ • Session Details:                                     ║
+║   ┌── Last Login: 2025-06-04 00:15:21 UTC              ║
+║   ┌── Current User: Lackadaisical-Security             ║
+║   ┌── Active TTY: /dev/pts/0                           ║
+║   ┌── Shell: /bin/zsh (custom hardened)                ║
+║   └── Working Directory: /opt/security-research        ║
+╚════════════════════════════════════════════════════════╝
 
-[NOTICE] All tools and frameworks are proprietary and custom-built
-[INFO] This system contains private security research
+[NOTICE] All tools and frameworks are proprietary and custom-built  
+[INFO] This system contains private security research  
 [STATUS] Current operational status: BUILDING THE FUTURE OF SECURITY
 ```
 
