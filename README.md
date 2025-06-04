@@ -106,6 +106,7 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ║ XMPP+OTR: thelackadaisicalone@xmpp.jp                  ║
 ║ Custom Lackadaisical Messenger                         ║
 ║ Email: admin@lackadaisical-security.com                ║
+║ Session + Other Privacy Messengers - Contact Me        ║
 ║ • Session Details:                                     ║
 ║   ┌── Last Login: 2025-06-04 00:15:21 UTC              ║
 ║   ┌── Current User: Lackadaisical-Security             ║
