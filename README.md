@@ -19,7 +19,7 @@
 
 ## 🔐 About Me
 
-I am an **Autonomous Systems Engineer & Cybersecurity Researcher (Singularity Class)**—an ultra-elite cyber architect and AI systems engineer. My expertise spans designing and implementing production-ready security systems from first principles, often leveraged entirely through AI-driven development. I build with zero dependencies, focusing on privacy, anonymity, and enterprise-grade resilience.
+I am an **Autonomous Systems Engineer & Cybersecurity Researcher (Singularity Class)**—an ultra-elite cyber architect and AI systems engineer. My expertise spans designing and implementing production-ready security systems from first principles, often leveraged entirely through AI-driven development. I build with zero dependencies, focusing on privacy, anonymity, and enterprise-grade resilience. I'm also a cybersecurity professional specializing in developing security tools and systems. My work there focuses on creating practical solutions for malware detection, network analysis, secure communications, and file scanning. I believe in building robust security tools that are both effective and accessible
 
 <p align="center">
   <a href="https://lackadaisical-security.com">
