@@ -10,9 +10,9 @@
   <br><br>
   <em>"The name is ironic – there’s nothing lackadaisical about security."</em>
   
-  <em>“From crafting hex shellcode on 56k to orchestrating AI-driven zero-dependency stacks, I’ve mastered every layer—because in a world full of script kiddies, and now I command AI armies to forge zero-dependency crypto for impenetrable privacy"<em>
+  <em>“From crafting hex shellcode on 56k to orchestrating AI-driven zero-dependency stacks, I’ve mastered every layer—because in a world full of script kiddies, and now I command AI armies to forge zero-dependency crypto for impenetrable privacy."<em>
   
-  <em>"Because being the best isn’t a target, it’s my default setting.”<em>
+  <em>"Being the best isn’t a target, it’s my default setting.”<em>
 
     Leet Era Dev – Singularity Class Engineer
 </div>
