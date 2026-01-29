@@ -361,7 +361,7 @@ Groundbreaking research in deciphering ancient undeciphered scripts:
 - **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing system (2025)
 
 **Ancient Near Eastern Scripts:**
-- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archieve)** - Bronze Age syllabic script from Lebanon (August 2025)
+- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Bronze Age syllabic script from Lebanon (August 2025)
 - **[Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research)** - Early alphabetic writing from Sinai Peninsula (2025)
 - **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system (September 2025)
 
@@ -1065,7 +1065,7 @@ class LackadaisicalSecurityResearchDivision:
 - **[Rongorongo-Deciphered-Public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)** - Historic Easter Island script decipherment breakthrough
 - **[Voynich-Script-Decoded](https://github.com/Lackadaisical-Security/Voynich-Script-Decoded)** - 15th-century illustrated manuscript decipherment
 - **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Translation tools for ancient languages
-- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archieve)** - Bronze Age syllabic script from Lebanon
+- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Bronze Age syllabic script from Lebanon
 - **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system
 - **[Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research)** - Early alphabetic writing from Sinai Peninsula
 - **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script from ancient Crete
