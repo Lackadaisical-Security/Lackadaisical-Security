@@ -351,25 +351,26 @@ Historic breakthrough: Decipherment of the Rongorongo script from Easter Island.
 Groundbreaking research in deciphering ancient undeciphered scripts:
 
 **Pacific Scripts:**
-- **[Rongorongo-Deciphered-Public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)** - Easter Island (Rapa Nui) glyphic script (August 2025)
+- **[Rongorongo-Deciphered-Public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)** - Easter Island (Rapa Nui) glyphic script (August 2025) - [Research Site](https://lackadaisical-security.com/rongorongo-research/index.html)
 
 **Ancient Mediterranean & Aegean Scripts:**
-- **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script from ancient Crete (September 2025)
-- **[Cretan-Hieroglyphics-Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment)** - Bronze Age Cretan pictographic script (2025)
-- **[Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)** - Minoan Bronze Age artifact (2025)
-- **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script (2025)
-- **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing system (2025)
+- **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script from ancient Crete (September 2025) - [Research Site](https://lackadaisical-security.com/Linear-A-Research/index.html)
+- **[Cretan-Hieroglyphics-Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment)** - Bronze Age Cretan pictographic script (2025) - [Research Site](https://lackadaisical-security.com/Cretan-Hieroglyphs-Research/index.html)
+- **[Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)** - Minoan Bronze Age artifact (2025) - [Research Site](https://lackadaisical-security.com/Phaistos-Disc-Research/index.html)
+- **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script (2025) - [Research Site](https://lackadaisical-security.com/Cypro-Minoan-Research/index.html)
+- **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing system (2025) [Research Site](https://lackadaisical-security.com/Vinca-Research/index.html)
 
 **Ancient Near Eastern Scripts:**
-- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Bronze Age syllabic script from Lebanon (August 2025)
-- **[Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research)** - Early alphabetic writing from Sinai Peninsula (2025)
-- **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system (September 2025)
+- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Bronze Age syllabic script from Lebanon (August 2025) - [Research Site](https://lackadaisical-security.com/Byblos-Script-Research/index.html)
+- **[Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research)** - Early alphabetic writing from Sinai Peninsula (2025) - [Research Site](https://lackadaisical-security.com/Proto-Sinaitic-Research/index.html)
+- **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system (September 2025) - [Research Site](https://lackadaisical-security.com/Proto-Elamite-Research/index.html)
+- **[Meroitic-Script-Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment)** - Ancient Nubian/Kushite script from Sudan (January 2026) - [Research Site](https://lackadaisical-security.com/Meroitic-Research/index.html)
 
 **South Asian Scripts:**
-- **[Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)** - Harappan civilization script (September 2025)
+- **[Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)** - Harappan civilization script (September 2025) - [Research Site](https://lackadaisical-security.com/Indus-Valley-Research/index.html)
 
 **Medieval & Renaissance Scripts:**
-- **[Voynich-Script-Decoded](https://github.com/Lackadaisical-Security/Voynich-Script-Decoded)** - 15th-century illustrated manuscript (2025)
+- **[Voynich-Script-Decoded](https://github.com/Lackadaisical-Security/Voynich-Script-Decoded)** - 15th-century illustrated manuscript (2025) - [Research Site](https://lackadaisical-security.com/Voynich-Manuscript-Research/index.html)
 
 **Translation & Analysis Tools:**
 - **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Collection of ancient language translation tools
@@ -627,6 +628,11 @@ class LackadaisicalSecurityResearchDivision:
 
 ### 📅 January 2026
 
+- **Jan 30th**: Released Meroitic Script Decipherment - Pass 1 of 2
+  - First phase of ancient Nubian/Kushite script decipherment from Sudan
+  - Comprehensive linguistic analysis and pattern recognition
+  - Public research site launched at [lackadaisical-security.com/Meroitic-Research](https://lackadaisical-security.com/Meroitic-Research/index.html)
+  - Advanced comparative analysis with other Northeast African scripts
 - **Jan 29th**: Updated GitHub profile README with comprehensive repository information, statistics, and links
   - Updated repository counts: 106 total repositories (39 public, 67 private)
   - Enhanced GitHub Repository Links section with categorized project listings
@@ -634,8 +640,9 @@ class LackadaisicalSecurityResearchDivision:
   - Updated all timestamps and activity dates throughout documentation
   - Improved Repository Overview section with current metrics and access information
 - **January Activity**: Active maintenance across 106 repositories spanning multiple domains:
+  - 📜 **Ancient Language Breakthrough**: Meroitic Script Decipherment Pass 1 released
   - 🔐 **Security Systems**: PhantomBrowser, NullTrace, Lackadaisical Network Analyzer, STONEDRIFT 3000, LackyVPN, GhostDrive OS
-  - 📜 **Ancient Language Projects**: Rongorongo, Proto-Elamite, Linear-A, Indus Valley, Byblos, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Proto-Sinaitic, Voynich decipherment systems
+  - 📜 **Ancient Language Projects**: Rongorongo, Proto-Elamite, Linear-A, Indus Valley, Byblos, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Proto-Sinaitic, Voynich, Meroitic decipherment systems
   - 🤖 **AI Development**: Lacky-The-Copilot, Spectral DeepMesh Copilot, Lackadaisical AI Chat
   - 🔐 **Cryptographic Systems**: LQX-20, LQX-Penta-Cryptweave, LQX-Eldar-Cryptweave primitives
   - 🛡️ **Privacy Infrastructure**: LackyVault v2.0, Lackadaisical Messenger v1.3, MirrorCrypt v1.1
@@ -644,6 +651,20 @@ class LackadaisicalSecurityResearchDivision:
   - 💬 **Communication Systems**: Secure messaging platforms, encrypted channel frameworks
   - 🏦 **Cryptocurrency**: Zero-dependency wallets, secure storage solutions
   - ⚙️ **Development Tools**: MSI installers, cross-platform frameworks, custom copilots
+    
+### 📅 December 2025
+  - **Dec 1st**: Released five major ancient script decipherment projects
+  - **Voynich Script Decoded**: 15th-century illustrated manuscript breakthrough
+  - **Phaistos Disc Decipherment**: Minoan Bronze Age artifact decoding
+  - **Vinča Script Decipherment**: European Neolithic proto-writing system analysis
+  - **Cretan Hieroglyphics Decipherment**: Bronze Age Cretan pictographic script research
+  - **Proto-Sinaitic Research**: Early alphabetic writing from Sinai Peninsula
+- **December Activity**: Major release of ancient script decipherment research
+  - 📜 **Ancient Scripts**: Five major decipherment projects released publicly
+  - 🔐 **Security Systems**: Ongoing maintenance and updates
+  - 📊 **Analysis Tools**: Codex Analyzer enhancements for new scripts
+  - 🤖 **AI Integration**: Machine learning improvements for pattern recognition
+  - 🌐 **Research**: Comparative analysis across Mediterranean and European scripts
 
 ### 📅 October 2025
 
@@ -651,9 +672,15 @@ class LackadaisicalSecurityResearchDivision:
   - Documented 27+ public repositories with detailed project descriptions
   - Enhanced repository overview and statistics sections
   - Updated project categorization and links
+- **Oct 1st**: Released five major ancient script decipherment projects (completed in August)
+  - **Byblos Decipherment Archive**: Bronze Age syllabic script from Lebanon
+  - **Indus Valley Decipherment**: Harappan civilization script research
+  - **Linear-A Decipherment**: Minoan civilization script from ancient Crete
+  - **Proto-Elamite Decipherment**: Ancient Iranian writing system
+  - **Cypro-Minoan Research**: Late Bronze Age Cypriot script
 - **October Activity**: Active maintenance and development across multiple domains:
   - 🔐 **Security Systems**: PhantomBrowser, NullTrace, Lackadaisical C&C System, Network Analyzer
-  - 📜 **Ancient Language Projects**: Continued work on Rongorongo, Proto-Elamite, Linear-A, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Proto-Sinaitic, Voynich, Indus Valley decipherment
+  - 📜 **Ancient Language Projects**: Five major decipherment projects released publicly, continued work on Rongorongo and other scripts
   - 🤖 **AI Development**: Lacky-The-Copilot enhancements, Spectral DeepMesh Copilot refinements
   - 🛡️ **Privacy Tools**: LackyVPN maintenance, GhostDrive OS updates, MirrorCrypt improvements
   - 🔐 **Cryptographic Systems**: LQX-20 optimizations, LQX-Penta-Cryptweave testing
@@ -667,22 +694,12 @@ class LackadaisicalSecurityResearchDivision:
   - Enhanced PhantomBrowser privacy documentation with advanced features
   - Updated NullTrace anti-forensics documentation and usage guides
   - Improved Lackadaisical C&C System documentation and deployment guides
-- **Sep 18-19th**: Released multiple ancient script decipherment projects
-  - **Proto-Elamite Decipherment**: Complete analysis and translation framework
-  - **Linear-A Decipherment**: Breakthrough research and partial decoding
-  - **Indus Valley Decipherment**: Advanced pattern recognition and analysis
-  - **Cretan Hieroglyphics Decipherment**: Bronze Age Cretan pictographic script research
-  - **Cypro-Minoan Research**: Late Bronze Age Cypriot syllabic script
-  - **Phaistos Disc Decipherment**: Minoan Bronze Age artifact decoding
-  - **Vinca Script Decipherment**: European Neolithic proto-writing system
-  - **Proto-Sinaitic Research**: Early alphabetic writing from Sinai Peninsula
-  - **Voynich Script Decoded**: 15th-century illustrated manuscript breakthrough
 - **Sep 13th**: Developed Lackadaisical Codex Analyzer for ancient text analysis
   - Integrated machine learning for pattern recognition
   - Added support for multiple ancient writing systems
   - Created visualization tools for linguistic analysis
-- **September Activity**: Major focus on ancient language decipherment and documentation
-  - 📜 **Ancient Scripts**: Proto-Elamite, Linear-A, Indus Valley, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Proto-Sinaitic, Voynich, Byblos analysis
+- **September Activity**: Major focus on security documentation and analysis tool development
+  - 📜 **Ancient Scripts**: Preparation for October release of multiple decipherment projects
   - 🔐 **Security Documentation**: PhantomBrowser, NullTrace, C&C System updates
   - 📊 **Analysis Tools**: Codex Analyzer development and testing
   - 🤖 **AI Integration**: Machine learning for linguistic pattern recognition
@@ -1062,18 +1079,19 @@ class LackadaisicalSecurityResearchDivision:
 **🔗 GitHub Repository Links (Updated January 2026):**
 
 ### 📜 Ancient Language & Decipherment Projects
-- **[Rongorongo-Deciphered-Public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)** - Historic Easter Island script decipherment breakthrough
-- **[Voynich-Script-Decoded](https://github.com/Lackadaisical-Security/Voynich-Script-Decoded)** - 15th-century illustrated manuscript decipherment
+- **[Rongorongo-Deciphered-Public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)** - Historic Easter Island script decipherment breakthrough (August 2025)
+- **[Meroitic-Script-Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment)** - Ancient Nubian/Kushite script from Sudan - Pass 1 of 2 (January 2026)
+- **[Voynich-Script-Decoded](https://github.com/Lackadaisical-Security/Voynich-Script-Decoded)** - 15th-century illustrated manuscript decipherment (December 2025)
+- **[Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)** - Minoan Bronze Age artifact decoding (December 2025)
+- **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing system (December 2025)
+- **[Cretan-Hieroglyphics-Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment)** - Bronze Age Cretan pictographic script (December 2025)
+- **[Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research)** - Early alphabetic writing from Sinai Peninsula (December 2025)
+- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Bronze Age syllabic script from Lebanon (October 2025)
+- **[Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)** - Harappan civilization script research (October 2025)
+- **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script from ancient Crete (October 2025)
+- **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system (October 2025)
+- **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script (October 2025)
 - **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Translation tools for ancient languages
-- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Bronze Age syllabic script from Lebanon
-- **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system
-- **[Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research)** - Early alphabetic writing from Sinai Peninsula
-- **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script from ancient Crete
-- **[Cretan-Hieroglyphics-Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment)** - Bronze Age Cretan pictographic script
-- **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script
-- **[Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)** - Minoan Bronze Age artifact decoding
-- **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing system
-- **[Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)** - Harappan civilization script research
 - **[Lackadaisical-Codex-Analyzer](https://github.com/Lackadaisical-Security/Lackadaisical-Codex-Analyzer)** - Ancient text analysis tools
 - **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all public decipherment projects
 
