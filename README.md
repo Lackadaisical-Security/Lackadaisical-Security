@@ -426,7 +426,7 @@ Production-grade KMDF anti-forensics kernel driver.
 
 ### 🔍 OSINT & Intelligence
 
-- **[Public-OSINT-and-Intel-Tools](https://github.com/Lackadaisical-Security/public-osint-and-intel-tools)** - Python-based OSINT framework
+- **[Lackadaisical-OSINT-and-Intel-Toolkit](https://github.com/Lackadaisical-Security/Lackadaisical-OSINT-and-Intel-Toolkit)** - Python-based OSINT framework
 - **[FlagFinder](https://github.com/Lackadaisical-Security/FlagFinder)** - Security reconnaissance and flag discovery
 
 ### 🌐 Privacy & Anonymity
