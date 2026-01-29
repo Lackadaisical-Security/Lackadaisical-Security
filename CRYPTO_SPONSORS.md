@@ -1,68 +1,100 @@
-# 👻 Ghost Protocol Sponsors
+# 👻 Ghost Protocol Supporters
 
-*"Those who walk in shadows but support the light"*
+*"Those who support the mission without claiming the work"*
+
+---
+
+## The Philosophy
+
+**Financial supporters are recognized here with gratitude.**
+
+**However**: Support does NOT equal research credit. Donors are acknowledged as **patrons of the work**, not co-authors or contributors to the decipherment itself.
+
+**All decipherment credit remains with the researchers.**
 
 ---
 
 ## 🌌 Spectral Nodes (≥ $1,000)
 
-*Permanent monument status - Immortalized in all 12 ancient script repositories*
+*Permanent recognition as major supporters*
 
-| Ghost Handle | Date | Monument |
-|--------------|------|----------|
-| *Awaiting first Spectral Node...* | - | 🌌 |
-
----
-
-## 👻 Ghost Tier - Operator Class (≥ $2,400/year)
-
-*Elite research collaborators*
-
-| Ghost Handle | Status | Joined |
-|--------------|--------|--------|
-| *Awaiting first Ghost Tier...* | - | - |
+| Handle/Name | Contribution | Date | Status |
+|-------------|--------------|------|--------|
+| *Awaiting first Spectral Node...* | - | - | 🌌 |
 
 ---
 
-## 🏺 Linguists (≥ $600/year)
+## 👻 Ghost Tier Supporters (≥ $2,400/year)
 
-*Active decipherment supporters*
+*Annual major supporters*
 
-| Ghost Handle | Joined |
-|--------------|--------|
+| Handle/Name | Joined | Status |
+|-------------|--------|--------|
+| *Awaiting first Ghost Tier...* | - | Active |
+
+---
+
+## 🏺 Linguist Tier Supporters (≥ $600/year)
+
+*Sustained supporters*
+
+| Handle/Name | Joined |
+|-------------|--------|
 | *Awaiting first Linguist...* | - |
 
 ---
 
-## 📜 Scribes (≥ $180/year)
+## 📜 Scribe Tier Supporters (≥ $180/year)
 
-*Knowledge preservers*
+*Regular supporters*
 
-| Ghost Handle | Joined |
-|--------------|--------|
+| Handle/Name | Joined |
+|-------------|--------|
 | *Awaiting first Scribe...* | - |
 
 ---
 
-## 🗿 Tablet Readers ($5+ one-time)
+## 🗿 Tablet Reader Supporters ($5+ one-time)
 
-*Every voice matters*
+*Every contribution matters*
 
-| Ghost Handle | Date |
-|--------------|------|
+| Handle/Name | Date |
+|-------------|------|
 | *Awaiting first Tablet Reader...* | - |
 
 ---
 
-## 🎖️ Total Support Received
+## 📊 Recognition vs. Research Credit
 
-**Total BTC**: ₿0.00000000  
-**Total ETH**: Ξ0.000000  
-**Total LTC**: Ł0.00000000  
-**Total XMR**: ♐ Unknown (privacy by design)  
-**Total USD Equivalent**: $0
+### ✅ What Supporters Get:
+- **Public recognition** in this file (optional)
+- **Gratitude** for enabling the work
+- **Acknowledgment** as financial supporters
+- **Increased guidance/consultation** based on contribution level
 
-*Updated when sponsors claim their tiers*
+### ❌ What Supporters Do NOT Get:
+- **Co-authorship** on research papers
+- **Attribution** in decipherment credit
+- **Research contributor** status
+- **Academic credit** for the work
+
+---
+
+## 🎖️ How to Be Listed
+
+After donating, if you want recognition:
+
+1. **Open an issue** in [this repo](https://github.com/Lackadaisical-Security/Lackadaisical-Security/issues/new)
+   - Title: `[GHOST PROTOCOL] Supporter Recognition`
+   - Include:
+     - Transaction hash (or "Monero - Private" + amount)
+     - Preferred name/handle for recognition
+     - Tier level
+     - Whether you want to be listed (optional)
+
+2. **Stay Anonymous**: Just donate. No recognition needed.
+
+**We verify on-chain** for BTC/ETH/LTC (honor system for Monero 👻)
 
 ---
 
@@ -76,6 +108,20 @@ All Bitcoin/Ethereum/Litecoin donations can be verified:
 
 ---
 
-*"Some give their names. Some give in silence. All are ghosts in the machine of history."*
+## 💬 The Distinction
+
+**You're supporting the research, not claiming it.**
+
+Like a museum patron or academic grant - you enable the work, but the discoveries remain credited to the researchers.
+
+**This is how it should be.**
+
+---
+
+*"Support the mission. Let the researchers claim the credit. Ghost Protocol."*
 
 **- The Ghost 👻**
+
+---
+
+**Last Updated**: January 2026
