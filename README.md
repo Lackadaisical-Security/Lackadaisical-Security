@@ -350,11 +350,30 @@ Historic breakthrough: Decipherment of the Rongorongo script from Easter Island.
 ### 🗿 Ancient Language Decipherment Projects
 Groundbreaking research in deciphering ancient undeciphered scripts:
 
+**Pacific Scripts:**
+- **[Rongorongo-Deciphered-Public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)** - Easter Island (Rapa Nui) glyphic script (August 2025)
+
+**Ancient Mediterranean & Aegean Scripts:**
+- **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script from ancient Crete (September 2025)
+- **[Cretan-Hieroglyphics-Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment)** - Bronze Age Cretan pictographic script (2025)
+- **[Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)** - Minoan Bronze Age artifact (2025)
+- **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script (2025)
+- **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing system (2025)
+
+**Ancient Near Eastern Scripts:**
+- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archieve)** - Bronze Age syllabic script from Lebanon (August 2025)
+- **[Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research)** - Early alphabetic writing from Sinai Peninsula (2025)
 - **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system (September 2025)
-- **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script (September 2025)
+
+**South Asian Scripts:**
 - **[Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)** - Harappan civilization script (September 2025)
-- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archieve)** - Ancient Phoenician script (August 2025)
+
+**Medieval & Renaissance Scripts:**
+- **[Voynich-Script-Decoded](https://github.com/Lackadaisical-Security/Voynich-Script-Decoded)** - 15th-century illustrated manuscript (2025)
+
+**Translation & Analysis Tools:**
 - **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Collection of ancient language translation tools
+- **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all public decipherment projects
 
 ### 🤖 [Lacky-The-Copilot](https://github.com/Lackadaisical-Security/Lacky-The-Copilot)
 AI-powered coding assistant specifically designed for security tool development.
@@ -616,7 +635,7 @@ class LackadaisicalSecurityResearchDivision:
   - Improved Repository Overview section with current metrics and access information
 - **January Activity**: Active maintenance across 106 repositories spanning multiple domains:
   - 🔐 **Security Systems**: PhantomBrowser, NullTrace, Lackadaisical Network Analyzer, STONEDRIFT 3000, LackyVPN, GhostDrive OS
-  - 📜 **Ancient Language Projects**: Rongorongo, Proto-Elamite, Linear-A, Indus Valley, Byblos decipherment systems
+  - 📜 **Ancient Language Projects**: Rongorongo, Proto-Elamite, Linear-A, Indus Valley, Byblos, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Proto-Sinaitic, Voynich decipherment systems
   - 🤖 **AI Development**: Lacky-The-Copilot, Spectral DeepMesh Copilot, Lackadaisical AI Chat
   - 🔐 **Cryptographic Systems**: LQX-20, LQX-Penta-Cryptweave, LQX-Eldar-Cryptweave primitives
   - 🛡️ **Privacy Infrastructure**: LackyVault v2.0, Lackadaisical Messenger v1.3, MirrorCrypt v1.1
@@ -634,7 +653,7 @@ class LackadaisicalSecurityResearchDivision:
   - Updated project categorization and links
 - **October Activity**: Active maintenance and development across multiple domains:
   - 🔐 **Security Systems**: PhantomBrowser, NullTrace, Lackadaisical C&C System, Network Analyzer
-  - 📜 **Ancient Language Projects**: Continued work on Rongorongo, Proto-Elamite, Linear-A decipherment
+  - 📜 **Ancient Language Projects**: Continued work on Rongorongo, Proto-Elamite, Linear-A, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Proto-Sinaitic, Voynich, Indus Valley decipherment
   - 🤖 **AI Development**: Lacky-The-Copilot enhancements, Spectral DeepMesh Copilot refinements
   - 🛡️ **Privacy Tools**: LackyVPN maintenance, GhostDrive OS updates, MirrorCrypt improvements
   - 🔐 **Cryptographic Systems**: LQX-20 optimizations, LQX-Penta-Cryptweave testing
@@ -652,12 +671,18 @@ class LackadaisicalSecurityResearchDivision:
   - **Proto-Elamite Decipherment**: Complete analysis and translation framework
   - **Linear-A Decipherment**: Breakthrough research and partial decoding
   - **Indus Valley Decipherment**: Advanced pattern recognition and analysis
+  - **Cretan Hieroglyphics Decipherment**: Bronze Age Cretan pictographic script research
+  - **Cypro-Minoan Research**: Late Bronze Age Cypriot syllabic script
+  - **Phaistos Disc Decipherment**: Minoan Bronze Age artifact decoding
+  - **Vinca Script Decipherment**: European Neolithic proto-writing system
+  - **Proto-Sinaitic Research**: Early alphabetic writing from Sinai Peninsula
+  - **Voynich Script Decoded**: 15th-century illustrated manuscript breakthrough
 - **Sep 13th**: Developed Lackadaisical Codex Analyzer for ancient text analysis
   - Integrated machine learning for pattern recognition
   - Added support for multiple ancient writing systems
   - Created visualization tools for linguistic analysis
 - **September Activity**: Major focus on ancient language decipherment and documentation
-  - 📜 **Ancient Scripts**: Proto-Elamite, Linear-A, Indus Valley, Byblos analysis
+  - 📜 **Ancient Scripts**: Proto-Elamite, Linear-A, Indus Valley, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Proto-Sinaitic, Voynich, Byblos analysis
   - 🔐 **Security Documentation**: PhantomBrowser, NullTrace, C&C System updates
   - 📊 **Analysis Tools**: Codex Analyzer development and testing
   - 🤖 **AI Integration**: Machine learning for linguistic pattern recognition
@@ -1019,7 +1044,7 @@ class LackadaisicalSecurityResearchDivision:
   - 🔐 **Advanced Cryptography**: LQX-20, STONEDRIFT 3000, quantum-hybrid systems
   - 🛡️ **Security Infrastructure**: C&C systems, network analyzers, anti-forensics tools
   - 👤 **Privacy & Anonymity**: VPN solutions, ghost OS, phantom browsers
-  - 📜 **Ancient Language Decipherment**: Rongorongo, Proto-Elamite, Linear-A, Indus Valley, Byblos
+  - 📜 **Ancient Language Decipherment**: Rongorongo, Voynich, Proto-Elamite, Linear-A, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Proto-Sinaitic, Indus Valley, Byblos
   - 🌍 **Linguistic Translation**: Elvish, Dwarvish, ancient languages, hieroglyphics
   - 🤖 **AI Development Tools**: MCP servers, coding assistants, chatbots, image generation
   - 🔍 **Intelligence & OSINT**: Reconnaissance tools, OSINT frameworks
@@ -1037,13 +1062,20 @@ class LackadaisicalSecurityResearchDivision:
 **🔗 GitHub Repository Links (Updated January 2026):**
 
 ### 📜 Ancient Language & Decipherment Projects
-- **[Rongorongo-Deciphered-Public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)** - Historic script decipherment breakthrough
+- **[Rongorongo-Deciphered-Public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)** - Historic Easter Island script decipherment breakthrough
+- **[Voynich-Script-Decoded](https://github.com/Lackadaisical-Security/Voynich-Script-Decoded)** - 15th-century illustrated manuscript decipherment
 - **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Translation tools for ancient languages
-- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Ancient Byblos script analysis
-- **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Proto-Elamite script decipherment
-- **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Linear-A script analysis
-- **[Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)** - Indus Valley script research
+- **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archieve)** - Bronze Age syllabic script from Lebanon
+- **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system
+- **[Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research)** - Early alphabetic writing from Sinai Peninsula
+- **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script from ancient Crete
+- **[Cretan-Hieroglyphics-Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment)** - Bronze Age Cretan pictographic script
+- **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script
+- **[Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)** - Minoan Bronze Age artifact decoding
+- **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing system
+- **[Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)** - Harappan civilization script research
 - **[Lackadaisical-Codex-Analyzer](https://github.com/Lackadaisical-Security/Lackadaisical-Codex-Analyzer)** - Ancient text analysis tools
+- **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all public decipherment projects
 
 ### 🤖 AI & Development Tools
 - **[Lacky-The-Copilot](https://github.com/Lackadaisical-Security/Lacky-The-Copilot)** - AI coding assistant and development copilot
