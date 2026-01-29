@@ -80,21 +80,57 @@
 
 ---
 
-## 🎖️ How to Be Listed
+## 📊 How to Claim Your Tier (Optional)
 
-After donating, if you want recognition:
+### What You Get:
 
-1. **Open an issue** in [this repo](https://github.com/Lackadaisical-Security/Lackadaisical-Security/issues/new)
-   - Title: `[GHOST PROTOCOL] Supporter Recognition`
+✅ **Recognition as a supporter** (if desired)  
+✅ **Increased guidance/consultation** based on contribution level  
+✅ **Early updates** on new decipherments  
+✅ **Private communication channels** (higher tiers)  
+
+❌ **NOT co-authorship** on research  
+❌ **NOT attribution** in decipherments  
+❌ **NOT research credit**  
+
+**You're a patron, not a co-author. And that's perfect.** 👻
+
+---
+
+### After Sending Crypto:
+
+**Option 1: Get Recognized as a Supporter**
+
+1. Open an issue in [this repo](https://github.com/Lackadaisical-Security/Lackadaisical-Security/issues/new)
+   - Title: `[GHOST PROTOCOL] Supporter Recognition - [Your Handle]`
    - Include:
-     - Transaction hash (or "Monero - Private" + amount)
-     - Preferred name/handle for recognition
-     - Tier level
-     - Whether you want to be listed (optional)
+     - Amount donated (USD equivalent)
+     - Transaction hash (or "Monero - Private")
+     - Preferred handle/pseudonym
+     - Desired tier
+     - Confirm you want to be listed in CRYPTO_SPONSORS.md
+   
+2. We verify on-chain for BTC/ETH/LTC (honor system for Monero 👻)
 
-2. **Stay Anonymous**: Just donate. No recognition needed.
+3. You're added to [CRYPTO_SPONSORS.md](CRYPTO_SPONSORS.md) as a recognized supporter
 
-**We verify on-chain** for BTC/ETH/LTC (honor system for Monero 👻)
+**Option 2: Stay Fully Anonymous**
+
+Just donate and watch the research flourish. No credit needed, no recognition required.
+
+---
+
+### The Clarity:
+
+**Financial support ≠ Research credit**
+
+- Museum patrons don't get credit for the art
+- Academic grants don't make funders co-authors
+- Ghost Protocol supporters don't claim decipherment credit
+
+**You enable the work. The researchers claim the discoveries.**
+
+This keeps the research integrity intact while honoring those who make it possible.
 
 ---
 
