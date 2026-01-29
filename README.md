@@ -236,6 +236,7 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ![Radare2](https://img.shields.io/badge/Radare2-AA0000?style=for-the-badge&logo=radare2&logoColor=white)
 ![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-FF6600?style=for-the-badge&logo=binaryninja&logoColor=white)
 ![Cutter](https://img.shields.io/badge/Cutter-8B0000?style=for-the-badge&logo=cutter&logoColor=white)
+![Custom RE Tools](https://img.shields.io/badge/Custom_RE_Tools-FF0000?style=for-the-badge&logo=code&logoColor=white)
 
 ![x64dbg](https://img.shields.io/badge/x64dbg-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -261,6 +262,7 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ![Masscan](https://img.shields.io/badge/Masscan-000080?style=for-the-badge&logo=masscan&logoColor=white)
 ![Zmap](https://img.shields.io/badge/Zmap-008080?style=for-the-badge&logo=zmap&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Custom Network Tools](https://img.shields.io/badge/Custom_Network_Tools-FF0000?style=for-the-badge&logo=code&logoColor=white)
 
 ![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=for-the-badge&logo=suricata&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-FF4500?style=for-the-badge&logo=snort&logoColor=white)
