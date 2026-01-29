@@ -120,17 +120,6 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 [STATUS] Current operational status: BUILDING THE FUTURE OF SECURITY
 ```
 
-## 💰 Support the Ghost Protocol
-
-**12 ancient scripts deciphered. 85+ remain. Help keep knowledge free.**
-
-[![Ghost Protocol](https://img.shields.io/badge/👻_Ghost_Protocol-Crypto_Support-00FF00?style=for-the-badge)](https://github.com/Lackadaisical-Security/Lackadaisical-Security/blob/main/CRYPTO_SUPPORT.md)
-
-**Accepted**: BTC, ETH, XMR, BCH, LTC, DOGE  
-**Ethos**: Anonymous, decentralized, unstoppable
-
-[📜 View Wallet Addresses & Tiers](CRYPTO_SUPPORT.md)
-
 ### 🌐 Comprehensive Security Ecosystem Overview
 
 <div align="center">
@@ -1063,6 +1052,17 @@ class LackadaisicalSecurityResearchDivision:
     <img src="https://img.shields.io/badge/Website-lackadaisical--security.com-blue?style=for-the-badge" alt="Website"/>
   </a>
 </div>
+
+## 💰 Support the Ghost Protocol
+
+**12 ancient scripts deciphered. 85+ remain. Help keep knowledge free.**
+
+[![Ghost Protocol](https://img.shields.io/badge/👻_Ghost_Protocol-Crypto_Support-00FF00?style=for-the-badge)](https://github.com/Lackadaisical-Security/Lackadaisical-Security/blob/main/CRYPTO_SUPPORT.md)
+
+**Accepted**: BTC, ETH, XMR, BCH, LTC, DOGE  
+**Ethos**: Anonymous, decentralized, unstoppable
+
+[📜 View Wallet Addresses & Tiers](CRYPTO_SUPPORT.md)
 
 ## 📈 Repository Overview
 
