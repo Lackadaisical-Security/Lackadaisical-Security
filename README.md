@@ -105,7 +105,7 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ║ • Secure Comms: Multiple channels available            ║
 ║ XMPP+OTR: thelackadaisicalone@xmpp.jp                  ║
 ║ Custom Lackadaisical Messenger                         ║
-║ Email: admin@lackadaisical-security.com                ║
+║ Email: lackadaisicalresearch@pm.me                     ║
 ║ Session + Other Privacy Messengers - Contact Me        ║
 ║ • Session Details:                                     ║
 ║   ┌── Last Login: 2025-08-07 12:24:21 UTC              ║
