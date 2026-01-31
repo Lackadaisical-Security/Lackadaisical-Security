@@ -23,7 +23,7 @@ Your support enables continued research on **12 successfully deciphered ancient 
 9. **Proto-Sinaitic** (HIGH) - Birth of the alphabet
 10. **Voynich Manuscript** (>99%) - 600-year cryptographic mystery
 11. **Meroitic** (99.5%) - Kushite identity script
-12. **Byblos** (87%) - Phoenician origins
+12. **Byblos** (87%) - Phoenician origins - Bridge between Proto-Sinaitic and Phoenician
 
 ---
 
@@ -86,35 +86,65 @@ ltc1q7cga9uc3qapgn3yk4pulsj856fg4nha6lhy9e5
 ## 🌌 Contribution Levels
 
 **No public attribution. No badges. No credits.** Just increased guidance and support.
-
-### 🗿 Any Amount
+### 🗿 Any Amount - Tablet Reader
 *"Every satoshi matters"*
+
 - Support the mission
 - Help keep research free and open
+- Optional recognition in CRYPTO_SPONSORS.md
+- Eternal gratitude from the Ghost
 
-### 📜 $15/month equivalent
+### 📜 $15+ - Scribe
 *"Sustained support"*
-- Direct email/contact for questions about the research
-- Occasional updates on progress
 
-### 🏺 $50/month equivalent
+- Everything in Tablet Reader
+- Direct email for questions about the research
+- Occasional updates on progress
+- Listed as ongoing supporter
+
+### 🏺 $50+ - Linguist
 *"Dedicated supporter"*
+
+- Everything in Scribe
 - Priority responses to research questions
 - Early notification of new decipherments
-- Input on research direction (where appropriate)
+- 👻 Supporter badge in repos
+- Not research co-authorship
 
-### 👻 $200/month equivalent
-*"Ghost Tier"*
+### 👻 $200+ - Ghost Tier
+*"Join the Spectral Network"*
+
+- Everything in Linguist
 - Direct consultation on specific symbols/translations
 - Deeper research collaboration opportunities
 - Technical methodology discussions
+- Private encrypted communication
+- Supporter recognition across repos
+- Patronage, not co-authorship
 
-### 🌌 $1,000+ (one-time or annual)
-*"Spectral Node"*
+### 🕸 $1,000+ - Ghost Agent
+*"Be Legendary ;]"*
+
+- Everything in Ghost Tier
 - Extensive private consultation
 - Custom research requests (within scope)
 - Deep technical collaboration
 - Private encrypted communication channels
+- Your name in history as a patron
+- Enabling research, not claiming it
+
+### 🌌 Spectral Node - Contact US - Prices Vary
+*"Spectral Node Status"*
+
+- Message us with the undeciphered script you want solved
+- lackadaisicalresearch@pm.me
+- XMPP+OTR: thelackadaisicalone@pm.me
+- Choose an undeciphered script for collaborative decipherment
+- Hands-on participation in every stage of the process
+- Real-time involvement - no black boxes, full transparency
+- Co-contributor attribution based on actual participation
+- Your input valued, Ghost maintains methodological direction
+- Collaboration, not control - can't be bought, only worked with
 
 **Note**: These are *guidance levels*, not rigid tiers. All support is appreciated equally. Larger contributions simply allow for more time dedicated to individual consultation.
 
