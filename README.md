@@ -28,8 +28,8 @@ I am an **Autonomous Systems Engineer & Cybersecurity Researcher (Singularity Cl
   <a href="https://blog.lackadaisical-security.com">
     <img src="https://img.shields.io/badge/📝_Research_Blog-Security_Insights-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
   </a>
-  <a href="mailto:contact@lackadaisical-security.com">
-    <img src="https://img.shields.io/badge/✉️_Email-contact%40lackadaisical--security.com-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:lackadaisicalresearch@pm.me">
+    <img src="https://img.shields.io/badge/✉️_Email-lackadaisicalresearch%40pm.me-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <br>
   <img src="https://img.shields.io/badge/⚡_All_Tools-100%25_Custom_Coded-FF0000?style=for-the-badge&logo=code&logoColor=white" alt="Custom Tools"/>
@@ -108,7 +108,7 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ║ Email: lackadaisicalresearch@pm.me                     ║
 ║ Session + Other Privacy Messengers - Contact Me        ║
 ║ • Session Details:                                     ║
-║   ┌── Last Login: 2025-08-07 12:24:21 UTC              ║
+║   ┌── Last Login: 2026-30-01 18:37:04 UTC              ║
 ║   ┌── Current User: Lackadaisical-Security             ║
 ║   ┌── Active TTY: /dev/pts/0                           ║
 ║   ┌── Shell: /bin/zsh (custom hardened)                ║
@@ -564,7 +564,6 @@ class LackadaisicalSecurityResearchDivision:
         
         self.publication_record = {
             "peer_reviewed_papers": 15,
-            "conference_presentations": 25,
             "security_advisories": 40,
             "technical_reports": 60,
             "open_source_contributions": 150,
@@ -633,7 +632,6 @@ class LackadaisicalSecurityResearchDivision:
 - **Jan 30th**: Released Meroitic Script Decipherment - Pass 1 of 2
   - First phase of ancient Nubian/Kushite script decipherment from Sudan
   - Comprehensive linguistic analysis and pattern recognition
-  - Public research site launched at [lackadaisical-security.com/Meroitic-Research](https://lackadaisical-security.com/Meroitic-Research/index.html)
   - Advanced comparative analysis with other Northeast African scripts
 - **Jan 29th**: Updated GitHub profile README with comprehensive repository information, statistics, and links
   - Updated repository counts: 106 total repositories (39 public, 67 private)
@@ -1151,7 +1149,7 @@ Many high-end security systems, enterprise tools, and proprietary frameworks rem
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lackadaisical-Security&color=2bbc8a" alt="Profile Views"/>
   <br><br>
-  <em>Last updated: January 29, 2026</em>
+  <em>Last updated: January 30, 2026</em>
 </div>
 
 <div align="center">
@@ -1164,7 +1162,7 @@ Many high-end security systems, enterprise tools, and proprietary frameworks rem
 
 ⚖️ From [Lackadaisical-Security](https://github.com/Lackadaisical-Security) | 🌐 [lackadaisical-security.com](https://lackadaisical-security.com)
 
-**Last Login:** 2026-01-29 18:37:04 UTC | **Current User:** Lackadaisical-Security | **Session:** Secure
+**Last Login:** 2026-30-1 18:37:04 UTC | **Current User:** Lackadaisical-Security | **Session:** Secure
 
 </div>
 
