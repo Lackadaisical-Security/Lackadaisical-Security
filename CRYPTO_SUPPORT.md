@@ -30,56 +30,26 @@ Your support enables continued research on **12 successfully deciphered ancient 
 ## 💰 Ghost Wallet Addresses
 
 ### Monero (XMR) - 👻 PREFERRED - Maximum Privacy
-48Njx8Q8fgbic3KEomVT3WN6r9Lp829WFeXwLuRyKBsjJPD3Jq2ZXG5CqTw5ywRa5LQ3NvyQchTfHdtdxpxBACbdLV4aX5L
-<details>
-<summary>📱 Show QR Code</summary>
-
-[XMR QR](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=monero:48Njx8Q8fgbic3KEomVT3WN6r9Lp829WFeXwLuRyKBsjJPD3Jq2ZXG5CqTw5ywRa5LQ3NvyQchTfHdtdxpxBACbdLV4aX5L)
-
-</details>
+Address will be available again soon
 
 **Why Monero?** Fully private, untraceable, perfect for the Ghost Protocol.
 
 ---
 
 ### Bitcoin (BTC)
-bc1qmphhu5su9gunu64v9gexer524p22rwam76layf
-<details>
-<summary>📱 Show QR Code</summary>
-
-[BTC QR](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=bitcoin:bc1qmphhu5su9gunu64v9gexer524p22rwam76layf)
-
-[Verify on Blockchain](https://blockchair.com/bitcoin/address/bc1qmphhu5su9gunu64v9gexer524p22rwam76layf)
-
-</details>
+Address will be available again soon
 
 ---
 
 ### Ethereum (ETH) / ERC-20 Tokens
-0xdC60AA88D5c591245C22A9A51f43025100bbe544
-<details>
-<summary>📱 Show QR Code</summary>
-
-[ETH QR](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=ethereum:0xdC60AA88D5c591245C22A9A51f43025100bbe544)
-
-[Verify on Blockchain](https://etherscan.io/address/0xdC60AA88D5c591245C22A9A51f43025100bbe544)
-
-</details>
+Address will be available again soon
 
 **Supported ERC-20**: USDT, USDC, DAI, WETH, and all other Ethereum tokens
 
 ---
 
 ### Litecoin (LTC)
-ltc1q7cga9uc3qapgn3yk4pulsj856fg4nha6lhy9e5
-<details>
-<summary>📱 Show QR Code</summary>
-
-[LTC QR](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=litecoin:ltc1q7cga9uc3qapgn3yk4pulsj856fg4nha6lhy9e5)
-
-[Verify on Blockchain](https://blockchair.com/litecoin/address/ltc1q7cga9uc3qapgn3yk4pulsj856fg4nha6lhy9e5)
-
-</details>
+Address will be available again soon
 
 ---
 
@@ -243,9 +213,9 @@ And so can you.
 
 **IMPORTANT**: Always verify crypto addresses before sending!
 
-- **BTC**: `bc1qmphhu5su9gunu64v9gexer524p22rwam76layf`
-- **ETH**: `0xdC60AA88D5c591245C22A9A51f43025100bbe544`
-- **LTC**: `ltc1q7cga9uc3qapgn3yk4pulsj856fg4nha6lhy9e5`
-- **XMR**: `48Njx8Q8fgbic3KEomVT3WN6r9Lp829WFeXwLuRyKBsjJPD3Jq2ZXG5CqTw5ywRa5LQ3NvyQchTfHdtdxpxBACbdLV4aX5L`
+- **BTC**: `Will be available again soon`
+- **ETH**: `Will be available again soon`
+- **LTC**: `Will be available again soon`
+- **XMR**: `Will be available again soon`
 
 Cross-reference with [lackadaisical-security.com/support](https://lackadaisical-security.com/support)
