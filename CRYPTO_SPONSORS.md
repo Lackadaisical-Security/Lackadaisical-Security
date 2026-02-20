@@ -14,7 +14,7 @@
 
 ---
 
-## 🌌 Spectral Nodes (≥ $1,000)
+## 🌌 Spectral Nodes (Contact Us)
 
 *Permanent recognition as major supporters*
 
@@ -24,9 +24,9 @@
 
 ---
 
-## 👻 Ghost Tier Supporters (≥ $2,400/year)
+## 🕸 Ghost Agent (≥ $1,000)
 
-*Annual major supporters*
+*Be Legendary ;]*
 
 | Handle/Name | Joined | Status |
 |-------------|--------|--------|
@@ -34,7 +34,17 @@
 
 ---
 
-## 🏺 Linguist Tier Supporters (≥ $600/year)
+## 👻 Ghost Tier Supporters (≥ $200)
+
+*Spectral Network major supporters*
+
+| Handle/Name | Joined | Status |
+|-------------|--------|--------|
+| *Awaiting first Ghost Tier...* | - | Active |
+
+---
+
+## 🏺 Linguist Tier Supporters (≥ $50)
 
 *Sustained supporters*
 
@@ -44,7 +54,7 @@
 
 ---
 
-## 📜 Scribe Tier Supporters (≥ $180/year)
+## 📜 Scribe Tier Supporters (≥ $15)
 
 *Regular supporters*
 
@@ -54,7 +64,7 @@
 
 ---
 
-## 🗿 Tablet Reader Supporters ($5+ one-time)
+## 🗿 Tablet Reader Supporters (Follow + Star + Watch)
 
 *Every contribution matters*
 
@@ -137,9 +147,9 @@ This keeps the research integrity intact while honoring those who make it possib
 ## 🔐 On-Chain Verification
 
 All Bitcoin/Ethereum/Litecoin donations can be verified:
-- **BTC**: [bc1qmphhu5su9gunu64v9gexer524p22rwam76layf](https://blockchair.com/bitcoin/address/bc1qmphhu5su9gunu64v9gexer524p22rwam76layf)
-- **ETH**: [0xdC60AA88D5c591245C22A9A51f43025100bbe544](https://etherscan.io/address/0xdC60AA88D5c591245C22A9A51f43025100bbe544)
-- **LTC**: [ltc1q7cga9uc3qapgn3yk4pulsj856fg4nha6lhy9e5](https://blockchair.com/litecoin/address/ltc1q7cga9uc3qapgn3yk4pulsj856fg4nha6lhy9e5)
+- **BTC**: [bc1qmphhu5su9gunu64v9gexer524p22rwam76layf](https://blockchair.com/bitcoin/address/bc1qcklu6057f7a6vhwqv9rj5vkjflh88yafcvl68m)
+- **ETH**: [0xdC60AA88D5c591245C22A9A51f43025100bbe544](https://etherscan.io/address/0x71dAff4150348dCEc95572311239747ad8c40BA3)
+- **LTC**: [ltc1q7cga9uc3qapgn3yk4pulsj856fg4nha6lhy9e5](https://blockchair.com/litecoin/address/ltc1qwwxe23xflzs3j0pldfpntwz60x6s788z4duyst)
 - **Monero**: Privacy-focused (no public verification)
 
 ---
@@ -160,4 +170,4 @@ Like a museum patron or academic grant - you enable the work, but the discoverie
 
 ---
 
-**Last Updated**: January 2026
+**Last Updated**: February 20th 2026
