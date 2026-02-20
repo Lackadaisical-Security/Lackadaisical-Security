@@ -30,26 +30,49 @@ Your support enables continued research on **12 successfully deciphered ancient 
 ## 💰 Ghost Wallet Addresses
 
 ### Monero (XMR) - 👻 PREFERRED - Maximum Privacy
-Address will be available again soon
+43irvMyacoA1nHL74oBiUQT4asE9WADTAN1WvEZgp7Zsg5cgiYfcHJtMcWvEk4qaAyaLnHLfNVAG1VppQFVeU7dsGBnxmS5
+<details>
+<summary>📱 Show QR Code (coming soon)</summary>
+
+</details>
 
 **Why Monero?** Fully private, untraceable, perfect for the Ghost Protocol.
 
 ---
 
 ### Bitcoin (BTC)
-Address will be available again soon
+bc1qcklu6057f7a6vhwqv9rj5vkjflh88yafcvl68m
+<details>
+<summary>📱 Show QR Code (coming soon)</summary>
+
+
+[Verify on Blockchain](https://blockchair.com/bitcoin/address/bc1qcklu6057f7a6vhwqv9rj5vkjflh88yafcvl68m)
+
+</details>
 
 ---
 
 ### Ethereum (ETH) / ERC-20 Tokens
-Address will be available again soon
+0x71dAff4150348dCEc95572311239747ad8c40BA3
+<details>
+<summary>📱 Show QR Code (coming soon)</summary>
+
+[Verify on Blockchain](https://etherscan.io/address/0x71dAff4150348dCEc95572311239747ad8c40BA3)
+
+</details>
 
 **Supported ERC-20**: USDT, USDC, DAI, WETH, and all other Ethereum tokens
 
 ---
 
 ### Litecoin (LTC)
-Address will be available again soon
+ltc1qwwxe23xflzs3j0pldfpntwz60x6s788z4duyst
+<details>
+<summary>📱 Show QR Code (coming soon)</summary>
+
+[Verify on Blockchain](https://blockchair.com/litecoin/address/ltc1qwwxe23xflzs3j0pldfpntwz60x6s788z4duyst)
+
+</details>
 
 ---
 
@@ -204,7 +227,7 @@ And so can you.
 
 ---
 
-**Last Updated**: January 2026  
+**Last Updated**: February 20th 2026  
 **Wallet Verification**: All addresses verified fresh from cold storage
 
 ---
@@ -213,9 +236,9 @@ And so can you.
 
 **IMPORTANT**: Always verify crypto addresses before sending!
 
-- **BTC**: `Will be available again soon`
-- **ETH**: `Will be available again soon`
-- **LTC**: `Will be available again soon`
-- **XMR**: `Will be available again soon`
+- **BTC**: `bc1qcklu6057f7a6vhwqv9rj5vkjflh88yafcvl68m`
+- **ETH**: `0x71dAff4150348dCEc95572311239747ad8c40BA3`
+- **LTC**: `ltc1qwwxe23xflzs3j0pldfpntwz60x6s788z4duyst`
+- **XMR**: `43irvMyacoA1nHL74oBiUQT4asE9WADTAN1WvEZgp7Zsg5cgiYfcHJtMcWvEk4qaAyaLnHLfNVAG1VppQFVeU7dsGBnxmS5`
 
 Cross-reference with [lackadaisical-security.com/support](https://lackadaisical-security.com/support)
