@@ -418,7 +418,8 @@ Groundbreaking research in deciphering ancient undeciphered scripts:
 - **[Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)** - Harappan civilization script (Complete, 89% confidence, 4,500 years old) - [Research Site](https://lackadaisical-security.com/Indus-Valley-Research/index.html)
 
 **Translation & Analysis Tools:**
-- **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Revolutionary multi-domain translation platform for 30+ ancient scripts
+- **[Spectral-Deepmesh-Copilot](https://github.com/Lackadaisical-Security/Spectral-Deepmesh-Copilot)** - Production-ready translation engine (v2.0.0) with 243 datasets, 17 script families, 364 SVG glyphs
+- **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Earlier multi-domain translation platform (30+ scripts, partial Rongorongo decipherment)
 - **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all 14+ public decipherment projects
 - **[Lackadaisical-Codex-Analyzer](https://github.com/Lackadaisical-Security/Lackadaisical-Codex-Analyzer)** - Production-grade audio analysis & linguistic processing system (v1.0.0)
 
@@ -1280,18 +1281,19 @@ class LackadaisicalSecurityResearchDivision:
 - **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script from ancient Crete (Complete, 92% confidence, 125-year mystery in 5 minutes)
 - **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system (Complete, 91% confidence, 5,200 years old)
 - **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script (Complete, 99.9% confidence)
-- **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Multi-domain translation platform for 30+ ancient scripts
+- **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Earlier translation platform for 30+ scripts
 - **[Lackadaisical-Codex-Analyzer](https://github.com/Lackadaisical-Security/Lackadaisical-Codex-Analyzer)** - Audio analysis & linguistic processing (v1.0.0)
+- **[Spectral-Deepmesh-Copilot](https://github.com/Lackadaisical-Security/Spectral-Deepmesh-Copilot)** - Advanced translation engine with 243 datasets (v2.0.0, April 2026)
 - **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all 14+ public decipherment projects
 
 ### 🤖 AI & Development Tools
 - **[LSDAMM-publicdocs](https://github.com/Lackadaisical-Security/LSDAMM-publicdocs)** - Spectral Distributed AI MCP Mesh (v1.1.0, April 2026)
 - **[Spectral-Code](https://github.com/Lackadaisical-Security/Spectral-Code)** - AI-enhanced code editor with GhostMesh memory (Production, April 2026)
 - **[CopilotScope](https://github.com/Lackadaisical-Security/CopilotScope)** - Forensic-grade AI service monitor (v1.0.0, April 2026)
+- **[Spectral-Deepmesh-Copilot](https://github.com/Lackadaisical-Security/Spectral-Deepmesh-Copilot)** - Production translation engine: 243 datasets, 17 script families (v2.0.0, April 2026)
 - **[Lacky-The-Copilot](https://github.com/Lackadaisical-Security/Lacky-The-Copilot)** - Multi-service AI ecosystem with 46.5M+ lines of code
 - **[Lackadaisical-Copilot](https://github.com/Lackadaisical-Security/Lackadaisical-Copilot)** - Privacy-focused local AI copilot (v1.0.0, 99% tested)
 - **[Lackadaisical-AI-Chat](https://github.com/Lackadaisical-Security/Lackadaisical-AI-Chat)** - AI chatbot with persistent memory (v2.0.0-alpha, April 2026)
-- **[Spectral-Deepmesh-Copilot](https://github.com/Lackadaisical-Security/Spectral-Deepmesh-Copilot)** - Ancient language translation engine (v2.0.0, April 2026)
 
 ### 🔐 Security & Privacy Systems
 - **[STONEDRIFT-3000](https://github.com/Lackadaisical-Security/STONEDRIFT-3000)** - Quantum-safe mesh network platform (v3.0.0, February 2026)
