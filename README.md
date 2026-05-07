@@ -85,8 +85,8 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ║ ┌── OSINT/Intelligence: Digital forensics, Recon       ║
 ║ └── Human Security: Social engineering, Insider threats║
 ╠════════════════════════════════════════════════════════╣
-║ CURRENT STATISTICS (Updated April 2026):              ║
-║ • Total Repositories: 106 (43 public, 63 private)     ║
+║ CURRENT STATISTICS (Updated May 2026):                ║
+║ • Total Repositories: 126 (46 public, 80 private)     ║
 ║ • Active Security Projects: 30+                        ║
 ║ • Custom Tools Developed: 150+                         ║
 ║ • Programming Languages: 70+                           ║
@@ -114,7 +114,7 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ║ Email: lackadaisicalresearch@pm.me                     ║
 ║ Session + Other Privacy Messengers - Contact Me        ║
 ║ • Session Details:                                     ║
-║   ┌── Last Login: 2026-30-01 18:37:04 UTC              ║
+║   ┌── Last Login: 2026-05-08 04:27:00 UTC+09:00        ║
 ║   ┌── Current User: Lackadaisical-Security             ║
 ║   ┌── Active TTY: /dev/pts/0                           ║
 ║   ┌── Shell: /bin/zsh (custom hardened)                ║
@@ -711,6 +711,41 @@ class LackadaisicalSecurityResearchDivision:
 
 ## 🚨 Recent Activity
 
+### 📅 May 2026
+
+- **May 7th**: Linear-B-Decipherment repository published
+  - Complete decipherment of Linear B Mycenaean Greek script — the only Aegean Bronze Age script already deciphered, now fully documented under the Lackadaisical framework
+  - Definitive confidence level, 89+ lexicon entries (64 syllabograms + 14 ideograms + 11 LS-resolved signs with DEFINITIVE status)
+  - Research site: [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html)
+- **May 7th**: Dispilio-Tablet-Decipherment updated
+  - Ancient Neolithic writing system from Dispilio, Greece (99.9998% confidence)
+  - Comprehensive archaeological context, linguistic analysis, and cross-comparison with Vinča script
+- **May 6th**: Lackadaisical-Ancient-Script-Copilot v1.1.2-alpha released
+  - Self-hosted local AI copilot for ancient script decipherment, translation, and statistical analysis
+  - 100% local via Ollama — no cloud, no subscriptions, no telemetry
+  - 63+ supported scripts, 12 language families, 8,600+ lexicon entries across 47 lexicons
+  - 17 LLM-callable tools: lexicon lookup, corpus search, Zipf/entropy analysis, cross-script correlation, glyph chaining
+  - Deep Research Pipeline: automated 9-stage multi-model research sessions with consolidated Markdown reports
+  - Dataset Browser with tier grouping (🟣 Expanded / 🟡 Master / ⚪ Basic), live filter, one-click pull preview
+  - Session History with date-grouped sessions, unified search across titles, messages, and lexicon database
+  - Vision support: upload inscription photos/PDFs for AI glyph analysis (gemma4, llama3.2-vision, aurora-elwing)
+  - Web Research tools: `web_search` + `web_fetch` for live scholarly research via Ollama API
+  - Security-hardened: SQLCipher v4, Argon2id key derivation, CSP, COEP/COOP, zero CDN, binds to 127.0.0.1 only
+- **May 6th**: Tartaria-Tablets-Decipherment updated
+  - Neolithic European writing system from ancient Romania (99.8% confidence)
+  - Pre-dates Sumerian writing — one of Europe's oldest known symbolic systems
+  - Comprehensive research logs, linguistic fieldwork, and cross-comparison with Vinča and Dispilio scripts
+- **May 5th**: Released-Decipherments hub updated
+  - Central hub expanded to include all new decipherment projects (Linear B, Dispilio, Tartaria)
+  - Updated project listings and dual licensing framework documentation
+- **May Activity**: Major expansion of the ancient script decipherment portfolio and AI tooling
+  - 📜 **Ancient Scripts**: Linear B published, Dispilio Tablet and Tartaria Tablets updated/published
+  - 🤖 **AI Tools**: Ancient Script Copilot v1.1.2-alpha — 63+ scripts, 8,600+ lexicon entries, fully local
+  - 📚 **Research Hub**: Released-Decipherments central hub expanded with new projects
+  - 🔬 **Analysis Engine**: Cross-script correlation, glyph chaining, entropy/Zipf analysis tools
+  - 🌐 **Dataset**: 100+ dataset files across 12 language families
+  - 🔐 **Private Development**: Script-Switch (JavaScript) and 20+ additional private systems in active development
+
 ### 📅 April 2026
 
 - **Apr 10th**: Comprehensive GitHub profile README update with current repository information
@@ -1248,8 +1283,8 @@ class LackadaisicalSecurityResearchDivision:
 
 ## 📈 Repository Overview
 
-- **Total Repositories**: 106 active repositories on GitHub (43 public, 63 private)
-- **Recently Updated**: 40+ repositories updated within the last 3 months (January-April 2026)
+- **Total Repositories**: 126 active repositories on GitHub (46 public, 80 private)
+- **Recently Updated**: 40+ repositories updated within the last 3 months (March-May 2026)
 - **Standalone Systems in Current Project**: 30+ sophisticated security, linguistic, and AI systems
 - **Repository Access**: View all public repositories at [https://github.com/Lackadaisical-Security?tab=repositories](https://github.com/Lackadaisical-Security?tab=repositories)
 - **Primary Focus Areas**: 
@@ -1257,23 +1292,26 @@ class LackadaisicalSecurityResearchDivision:
   - 🔐 **Advanced Cryptography**: LQX-20, LQX-Cryptweave, STONEDRIFT 3000, quantum-hybrid systems
   - 🛡️ **Security Infrastructure**: C&C systems, network analyzers, anti-forensics tools, traffic emulation
   - 👤 **Privacy & Anonymity**: OPSEC toolkit (27 tools), VPN solutions, ghost OS, phantom browsers
-  - 📜 **Ancient Language Decipherment**: Rongorongo, Voynich, Rohonc Codex, Meroitic, Proto-Elamite, Linear-A, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Proto-Sinaitic, Indus Valley, Byblos (14+ scripts)
-  - 🌍 **Linguistic Translation**: Ancient languages, Spectral-Deepmesh engine (243 datasets, 17 script families)
+  - 📜 **Ancient Language Decipherment**: Rongorongo, Voynich, Rohonc Codex, Meroitic, Proto-Elamite, Linear-A, Linear-B, Cretan Hieroglyphics, Cypro-Minoan, Phaistos Disc, Vinca, Tartaria, Dispilio, Proto-Sinaitic, Indus Valley, Byblos (17+ scripts)
+  - 🌍 **Linguistic Translation**: Ancient languages, Spectral-Deepmesh engine (243 datasets, 17 script families), Ancient Script Copilot (63+ scripts, 8,600+ lexicon entries)
   - 🔍 **Intelligence & OSINT**: Reconnaissance tools, OSINT frameworks, threat mapping, AI security monitoring
   - 🏦 **Cryptocurrency & Storage**: Zero-dependency wallets (LackyVault v2.0), secure storage (private)
   - 💬 **Secure Communications**: Cross-platform messaging, encrypted channels (private)
   - 📥 **Media & Download Utilities**: Secure content acquisition tools
   - ⚙️ **Development & Integration**: MSI installers, cross-platform frameworks, custom copilots, AI service monitors
 
-- **Development Status**: Actively maintained with regular updates and improvements (updated April 2026)
+- **Development Status**: Actively maintained with regular updates and improvements (updated May 2026)
 - **Programming Languages**: Python, JavaScript, TypeScript, C/C++, Rust, Assembly, HTML, Node.js, 70+ total languages
 - **Architecture**: Zero-dependency, custom cryptographic implementations, multi-platform
 - **License Strategy**: Mix of MIT, Custom licenses, Ghost License v1.0, and Open Source for community access
 - **Repository Activity**: Consistent development across security, linguistics, AI, and privacy domains
 
-**🔗 GitHub Repository Links (Updated April 2026):**
+**🔗 GitHub Repository Links (Updated May 8, 2026):**
 
 ### 📜 Ancient Language & Decipherment Projects
+- **[Linear-B-Decipherment](https://github.com/Lackadaisical-Security/Linear-B-Decipherment)** - Mycenaean Greek Bronze Age script — fully documented (May 2026, Definitive confidence)
+- **[Dispilio-Tablet-Decipherment](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment)** - Neolithic Greek writing system from Dispilio (May 2026, 99.9998% confidence)
+- **[Tartaria-Tablets-Decipherment](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment)** - Pre-Sumerian Neolithic European writing from Romania (May 2026, 99.8% confidence)
 - **[Rongorongo-Deciphered-Public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)** - Historic Easter Island script decipherment breakthrough (Complete, 85% confidence)
 - **[Meroitic-Script-Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment)** - Ancient Nubian/Kushite script from Sudan - Pass 1 Complete (January 2026, 99.5% confidence)
 - **[Rohonc-Codex-Decipherment](https://github.com/Lackadaisical-Security/Rohonc-Codex-Decipherment)** - 16th-century Hungarian codex solved (March 2026, 99.2% confidence)
@@ -1293,6 +1331,7 @@ class LackadaisicalSecurityResearchDivision:
 - **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all 14+ public decipherment projects
 
 ### 🤖 AI & Development Tools
+- **[Lackadaisical-Ancient-Script-Copilot](https://github.com/Lackadaisical-Security/Lackadaisical-Ancient-Script-Copilot)** - Local AI copilot for ancient script decipherment: 63+ scripts, 8,600+ lexicon entries, fully local via Ollama (v1.1.2-alpha, May 2026)
 - **[LSDAMM-publicdocs](https://github.com/Lackadaisical-Security/LSDAMM-publicdocs)** - Spectral Distributed AI MCP Mesh (v1.1.0, April 2026)
 - **[Spectral-Code](https://github.com/Lackadaisical-Security/Spectral-Code)** - AI-enhanced code editor with GhostMesh memory (Production, April 2026)
 - **[CopilotScope](https://github.com/Lackadaisical-Security/CopilotScope)** - Forensic-grade AI service monitor (v1.0.0, April 2026)
@@ -1327,12 +1366,12 @@ class LackadaisicalSecurityResearchDivision:
 
 **📌 All Public Repositories:** [View complete list at GitHub](https://github.com/Lackadaisical-Security?tab=repositories)
 
-**📊 Repository Statistics (Updated April 10, 2026):**
-- **106** Total repositories on GitHub (43 public, 63 private)
-- **43** Public repositories with active development and documentation
+**📊 Repository Statistics (Updated May 8, 2026):**
+- **126** Total repositories on GitHub (46 public, 80 private)
+- **46** Public repositories with active development and documentation
 - **30+** standalone systems in current workspace project
-- **40+** repositories updated in Q1 2026 (January-April)
-- **14+** ancient script decipherment projects released (2025-2026) with 85-99.9% confidence levels
+- **40+** repositories updated in Q1-Q2 2026 (January-May)
+- **17+** ancient script decipherment projects released (2025-2026) with 85-99.9998% confidence levels
 - **27** production-ready OPSEC tools in unified toolkit (v1.0.0)
 - **243** active linguistic datasets in Spectral-Deepmesh translation engine
 - **46.5M+** lines of code in Lacky-The-Copilot ecosystem
@@ -1365,9 +1404,9 @@ Many high-end security systems, enterprise tools, and proprietary frameworks rem
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lackadaisical-Security&color=2bbc8a" alt="Profile Views"/>
   <br><br>
-  <em>Last updated: April 10, 2026 07:40 UTC</em>
+  <em>Last updated: May 8, 2026 04:27 UTC+09:00</em>
   <br>
-  <em>Profile active since: 2024 | 106 repositories | 43 public projects</em>
+  <em>Profile active since: 2024 | 126 repositories | 46 public projects</em>
 </div>
 
 <div align="center">
@@ -1380,7 +1419,7 @@ Many high-end security systems, enterprise tools, and proprietary frameworks rem
 
 ⚖️ From [Lackadaisical-Security](https://github.com/Lackadaisical-Security) | 🌐 [lackadaisical-security.com](https://lackadaisical-security.com)
 
-**Last Login:** 2026-04-10 07:40:40 UTC | **Current User:** Lackadaisical-Security | **Session:** Secure | **Uptime:** 99.99%
+**Last Login:** 2026-05-08 04:27:00 UTC+09:00 | **Current User:** Lackadaisical-Security | **Session:** Secure | **Uptime:** 99.99%
 
 </div>
 
