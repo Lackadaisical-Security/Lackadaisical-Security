@@ -411,6 +411,8 @@ Groundbreaking research in deciphering ancient undeciphered scripts:
 - **[Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)** - Minoan Bronze Age artifact (Complete, 94% confidence) - [Research Site](https://lackadaisical-security.com/Phaistos-Disc-Research/index.html)
 - **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script (Complete, 99.9% confidence) - [Research Site](https://lackadaisical-security.com/Cypro-Minoan-Research/index.html)
 - **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing (Complete, 99.9% confidence, 7,700+ years old) - [Research Site](https://lackadaisical-security.com/Vinca-Research/index.html)
+- **[Tartaria Tablets](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment)** - World's oldest writing candidate (c. 5,300 BCE) - [Research Site](https://lackadaisical-security.com/Tartaria-Tablets-Decipherment/index.html)
+- **[Dispilio Tablet](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment)** - a Neolithic proto-writing system encoded on a wooden tablet from Greece, dating to c. 5,260 BCE - [Resarch Site]{Coming Soon)
 
 **Ancient Near Eastern Scripts:**
 - **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Bronze Age syllabic script from Lebanon (Complete, 87% confidence) - [Research Site](https://lackadaisical-security.com/Byblos-Script-Research/index.html)
@@ -430,7 +432,7 @@ Groundbreaking research in deciphering ancient undeciphered scripts:
 - **[Lackadaisical-Codex-Analyzer](https://github.com/Lackadaisical-Security/Lackadaisical-Codex-Analyzer)** - Production-grade audio analysis & linguistic processing system (v1.0.0)
 
 ### 🤖 [Lacky-The-Copilot](https://github.com/Lackadaisical-Security/Lacky-The-Copilot)
-Comprehensive multi-service AI development ecosystem with 46.5M+ lines of code.
+Comprehensive multi-service AI development ecosystem with 230M+ lines of code across integrated systems and copilot.
 - **Purpose**: AI coding assistant and development copilot with family consciousness architecture
 - **Tech**: 20+ integrated subsystems, 60+ Ollama models, 18 custom personalities
 - **Status**: Production Ready (June-July 2025)
@@ -493,7 +495,7 @@ Visual reconnaissance and threat terrain mapper for cybersecurity.
 - **[Lackadaisical-C-and-C-System](https://github.com/Lackadaisical-Security/Lackadaisical-C-and-C-System)** - Next-generation command and control framework (v2.1.0)
 - **[DuskNet](https://github.com/Lackadaisical-Security/DuskNet)** - Steganographic shadow networking stack with 10-layer encryption
 - **[NullTrace](https://github.com/Lackadaisical-Security/NullTrace)** - Production-grade KMDF anti-forensics kernel driver
-- **[Lackadaisical-Traffic-Emulator-System](https://github.com/Lackadaisical-Security/Lackadaisical-Traffic-Emulator-System)** - Enterprise traffic emulation (v4.0.0)
+- **[Lackadaisical-Traffic-Emulator-System](https://github.com/Lackadaisical-Security/Lackadaisical-Traffic-Emulator-System)** - Next-Gen Enterprise traffic emulation system (v4.0.0)
 
 ### 🔍 OSINT & Intelligence
 
@@ -514,7 +516,7 @@ Visual reconnaissance and threat terrain mapper for cybersecurity.
 - **[LSDAMM-publicdocs](https://github.com/Lackadaisical-Security/LSDAMM-publicdocs)** - Spectral Distributed AI MCP Mesh (v1.1.0)
 - **[Spectral-Code](https://github.com/Lackadaisical-Security/Spectral-Code)** - AI-enhanced code editor with GhostMesh memory
 - **[CopilotScope](https://github.com/Lackadaisical-Security/CopilotScope)** - Forensic-grade AI service monitor (v1.0.0)
-- **[Lacky-The-Copilot](https://github.com/Lackadaisical-Security/Lacky-The-Copilot)** - Multi-service AI ecosystem (46.5M+ lines)
+- **[Lacky-The-Copilot](https://github.com/Lackadaisical-Security/Lacky-The-Copilot)** - Multi-service AI ecosystem (230M+ lines)
 - **[Lackadaisical-Copilot](https://github.com/Lackadaisical-Security/Lackadaisical-Copilot)** - Privacy-focused local AI copilot (v1.0.0, 99% tested)
 - **[Lackadaisical-AI-Chat](https://github.com/Lackadaisical-Security/Lackadaisical-AI-Chat)** - Open-source AI companion with persistent memory (v2.0.0-alpha)
 - **[Spectral-Deepmesh-Copilot](https://github.com/Lackadaisical-Security/Spectral-Deepmesh-Copilot)** - Ancient language translation engine (v2.0.0)
@@ -1374,7 +1376,7 @@ class LackadaisicalSecurityResearchDivision:
 - **17+** ancient script decipherment projects released (2025-2026) with 85-99.9998% confidence levels
 - **27** production-ready OPSEC tools in unified toolkit (v1.0.0)
 - **243** active linguistic datasets in Spectral-Deepmesh translation engine
-- **46.5M+** lines of code in Lacky-The-Copilot ecosystem
+- **230M+** lines of code in Lacky-The-Copilot ecosystem
 - **6** AI copilot and assistant systems (LSDAMM, Spectral-Code, CopilotScope, Lacky, Lackadaisical-Copilot, AI-Chat)
 - **70+** programming languages utilized across portfolio
 - **Mixed** licensing: Ghost License v1.0, MIT, Apache 2.0, Custom for community access
@@ -1404,7 +1406,7 @@ Many high-end security systems, enterprise tools, and proprietary frameworks rem
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lackadaisical-Security&color=2bbc8a" alt="Profile Views"/>
   <br><br>
-  <em>Last updated: May 8, 2026 04:27 UTC+09:00</em>
+  <em>Last updated: May 26, 2026 10:24 UTC+09:00</em>
   <br>
   <em>Profile active since: 2024 | 126 repositories | 46 public projects</em>
 </div>
@@ -1419,7 +1421,7 @@ Many high-end security systems, enterprise tools, and proprietary frameworks rem
 
 ⚖️ From [Lackadaisical-Security](https://github.com/Lackadaisical-Security) | 🌐 [lackadaisical-security.com](https://lackadaisical-security.com)
 
-**Last Login:** 2026-05-08 04:27:00 UTC+09:00 | **Current User:** Lackadaisical-Security | **Session:** Secure | **Uptime:** 99.99%
+**Last Login:** 2026-05-26 10:24:00 UTC+09:00 | **Current User:** Lackadaisical-Security | **Session:** Secure | **Uptime:** 99.99%
 
 </div>
 
