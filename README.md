@@ -382,7 +382,7 @@ Historic breakthrough: Decipherment of the Rongorongo script from Easter Island.
 ### 📜 [Meroitic-Script-Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment)
 Ancient Nubian/Kushite writing system decipherment from Sudan.
 - **Purpose**: Complete decipherment of Meroitic script with lexicon and translation matrices
-- **Status**: Pass 1 Complete - 99.5% confidence (January 2026)
+- **Status**: Pass 2/2 Complete - 99.5% confidence (January 2026)
 - **Features**: 20+ phase research methodology, archaeological context integration
 - **Research Site**: [Meroitic Research](https://lackadaisical-security.com/Meroitic-Research/index.html)
 - **License**: Custom
@@ -420,7 +420,7 @@ Groundbreaking research in deciphering ancient undeciphered scripts:
 - **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system (Complete, 91% confidence, 5,200 years old) - [Research Site](https://lackadaisical-security.com/Proto-Elamite-Research/index.html)
 
 **African Scripts:**
-- **[Meroitic-Script-Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment)** - Ancient Nubian/Kushite script from Sudan (Pass 1, 99.5% confidence, January 2026) - [Research Site](https://lackadaisical-security.com/Meroitic-Research/index.html)
+- **[Meroitic-Script-Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment)** - Ancient Nubian/Kushite script from Sudan (Pass 2/2, 99.5% confidence, January 2026) - [Research Site](https://lackadaisical-security.com/Meroitic-Research/index.html)
 
 **South Asian Scripts:**
 - **[Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)** - Harappan civilization script (Complete, 89% confidence, 4,500 years old) - [Research Site](https://lackadaisical-security.com/Indus-Valley-Research/index.html)
@@ -428,7 +428,7 @@ Groundbreaking research in deciphering ancient undeciphered scripts:
 **Translation & Analysis Tools:**
 - **[Spectral-Deepmesh-Copilot](https://github.com/Lackadaisical-Security/Spectral-Deepmesh-Copilot)** - Production-ready translation engine (v2.0.0) with 243 datasets, 17 script families, 364 SVG glyphs
 - **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Earlier multi-domain translation platform (30+ scripts, partial Rongorongo decipherment)
-- **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all 14+ public decipherment projects
+- **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all 17+ public decipherment projects
 - **[Lackadaisical-Codex-Analyzer](https://github.com/Lackadaisical-Security/Lackadaisical-Codex-Analyzer)** - Production-grade audio analysis & linguistic processing system (v1.0.0)
 
 ### 🤖 [Lacky-The-Copilot](https://github.com/Lackadaisical-Security/Lacky-The-Copilot)
@@ -722,10 +722,10 @@ class LackadaisicalSecurityResearchDivision:
 - **May 7th**: Dispilio-Tablet-Decipherment updated
   - Ancient Neolithic writing system from Dispilio, Greece (99.9998% confidence)
   - Comprehensive archaeological context, linguistic analysis, and cross-comparison with Vinča script
-- **May 6th**: Lackadaisical-Ancient-Script-Copilot v1.1.2-alpha released
+- **May 6th**: Lackadaisical-Ancient-Script-Copilot v2.0.1-alpha released
   - Self-hosted local AI copilot for ancient script decipherment, translation, and statistical analysis
   - 100% local via Ollama — no cloud, no subscriptions, no telemetry
-  - 63+ supported scripts, 12 language families, 8,600+ lexicon entries across 47 lexicons
+  - 115+ supported scripts, 12 language families, 95,000+ lexicon entries across 115 lexicons
   - 17 LLM-callable tools: lexicon lookup, corpus search, Zipf/entropy analysis, cross-script correlation, glyph chaining
   - Deep Research Pipeline: automated 9-stage multi-model research sessions with consolidated Markdown reports
   - Dataset Browser with tier grouping (🟣 Expanded / 🟡 Master / ⚪ Basic), live filter, one-click pull preview
@@ -742,7 +742,7 @@ class LackadaisicalSecurityResearchDivision:
   - Updated project listings and dual licensing framework documentation
 - **May Activity**: Major expansion of the ancient script decipherment portfolio and AI tooling
   - 📜 **Ancient Scripts**: Linear B published, Dispilio Tablet and Tartaria Tablets updated/published
-  - 🤖 **AI Tools**: Ancient Script Copilot v1.1.2-alpha — 63+ scripts, 8,600+ lexicon entries, fully local
+  - 🤖 **AI Tools**: Ancient Script Copilot v2.0.1-alpha — 115+ scripts, 95,000+ lexicon entries, fully local
   - 📚 **Research Hub**: Released-Decipherments central hub expanded with new projects
   - 🔬 **Analysis Engine**: Cross-script correlation, glyph chaining, entropy/Zipf analysis tools
   - 🌐 **Dataset**: 100+ dataset files across 12 language families
