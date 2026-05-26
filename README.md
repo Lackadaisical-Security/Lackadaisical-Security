@@ -412,7 +412,7 @@ Groundbreaking research in deciphering ancient undeciphered scripts:
 - **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script (Complete, 99.9% confidence) - [Research Site](https://lackadaisical-security.com/Cypro-Minoan-Research/index.html)
 - **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing (Complete, 99.9% confidence, 7,700+ years old) - [Research Site](https://lackadaisical-security.com/Vinca-Research/index.html)
 - **[Tartaria Tablets](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment)** - World's oldest writing candidate (c. 5,300 BCE) - [Research Site](https://lackadaisical-security.com/Tartaria-Tablets-Decipherment/index.html)
-- **[Dispilio Tablet](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment)** - a Neolithic proto-writing system encoded on a wooden tablet from Greece, dating to c. 5,260 BCE - [Resarch Site]{Coming Soon)
+- **[Dispilio Tablet](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment)** - a Neolithic proto-writing system encoded on a wooden tablet from Greece, dating to c. 5,260 BCE - *Resarch Site Coming Soon*
 
 **Ancient Near Eastern Scripts:**
 - **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Bronze Age syllabic script from Lebanon (Complete, 87% confidence) - [Research Site](https://lackadaisical-security.com/Byblos-Script-Research/index.html)
