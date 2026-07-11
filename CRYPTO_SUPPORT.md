@@ -15,15 +15,18 @@ Your support enables continued research on **12 successfully deciphered ancient 
 1. **Linear A** (92%) - 125-year Minoan mystery
 2. **Indus Valley** (99.27%) - 4,000-year urban civilization
 3. **Rongorongo** (92.3%) - Easter Island breakthrough
-4. **Proto-Elamite** (99.2%) - World's oldest writing (5,200 years)
+4. **Proto-Elamite** (99.2%) -One of the World's oldest writing (5,200 years)
 5. **Cypro-Minoan** (99.9%) - Mediterranean Bronze Age
-6. **Cretan Hieroglyphics** (99.9%) - Europe's earliest writing
+6. **Cretan Hieroglyphics** (99.9%) - One of Europe's earliest writing
 7. **Phaistos Disc** (94%) - Most enigmatic artifact
 8. **Vinča** (99.9%) - 7,700-year Neolithic proto-writing
 9. **Proto-Sinaitic** (HIGH) - Birth of the alphabet
 10. **Voynich Manuscript** (>99%) - 600-year cryptographic mystery
 11. **Meroitic** (99.5%) - Kushite identity script
 12. **Byblos** (87%) - Phoenician origins - Bridge between Proto-Sinaitic and Phoenician
+13. **Tartaria Tablets** (99.8%) - European Neolithic proto-writing (c. 5,300 BCE, Romania)
+14. **Dispilio Tablet** (99.9998%) - Neolithic proto-writing system encoded on a wooden tablet from Greece, dating to c. 5,260 BCE.
+15. **Rohonc Codex** (99.2%) - 16th-century Hungarian/Transylvanian mystery manuscript
 
 ---
 
