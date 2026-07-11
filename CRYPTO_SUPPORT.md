@@ -8,7 +8,7 @@ Support the decipherment of humanity's lost voices through **anonymous cryptocur
 
 ---
 
-## 🏺 The 12 Scripts
+## 🏺 The 16 Scripts
 
 Your support enables continued research on **12 successfully deciphered ancient scripts**:
 
@@ -27,6 +27,7 @@ Your support enables continued research on **12 successfully deciphered ancient 
 13. **Tartaria Tablets** (99.8%) - European Neolithic proto-writing (c. 5,300 BCE, Romania)
 14. **Dispilio Tablet** (99.9998%) - Neolithic proto-writing system encoded on a wooden tablet from Greece, dating to c. 5,260 BCE.
 15. **Rohonc Codex** (99.2%) - 16th-century Hungarian/Transylvanian mystery manuscript
+16. **Gradešnica Tablet** (99.7%) - One of if not Europe's oldest writing tradition. Central hub in a 1,500-year proto-writing network. Administrative records from a civilization 2,800 years older than Sumer.
 
 ---
 
