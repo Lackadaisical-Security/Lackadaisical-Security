@@ -25,12 +25,17 @@ I am an **Autonomous Systems Engineer & Cybersecurity Researcher (Singularity Cl
   <a href="https://lackadaisical-security.com">
     <img src="https://img.shields.io/badge/🌐_Website-lackadaisical--security.com-00FF00?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
+  <a href="https://blog.lackadaisical-security.com">
+    <img src="https://img.shields.io/badge/📝_Research_Blog-Security_Insights-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a>
   <a href="mailto:lackadaisicalresearch@pm.me">
     <img src="https://img.shields.io/badge/✉️_Email-lackadaisicalresearch%40pm.me-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <br>
   <img src="https://img.shields.io/badge/⚡_All_Tools-100%25_Custom_Coded-FF0000?style=for-the-badge&logo=code&logoColor=white" alt="Custom Tools"/>
   <img src="https://img.shields.io/badge/🔐_Security_Focus-Enterprise%20Grade-4CAF50?style=for-the-badge&logo=shield&logoColor=white" alt="Security Focus"/>
+  <img src="https://img.shields.io/badge/👤_Current_User-Lackadaisical--Security-00FF00?style=for-the-badge&logo=user&logoColor=white" alt="Current User"/>
+  <img src="https://img.shields.io/badge/🌍_Timezone-UTC%2B0900-2196F3?style=for-the-badge&logo=world&logoColor=white" alt="Timezone"/>
 </p>
 
 ---
@@ -101,6 +106,7 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ║ • Website: https://lackadaisical-security.com          ║
 ║ • GitHub: https://github.com/Lackadaisical-Security    ║
 ║ • Research Blog: https://lackadaisical-security.com    ║
+║ • Tool Shop: https://lackadaisical-security.com/shop   ║
 ║ • PGP Key: Available on website                        ║
 ║ • Secure Comms: Multiple channels available            ║
 ║ XMPP+OTR: thelackadaisicalone@xmpp.jp                  ║
@@ -544,6 +550,7 @@ Configuration files and documentation for professional GitHub profile.
 ```python
 class LackadaisicalSecurityResearchDivision:
     def __init__(self):
+        self.current_timestamp = "2025-06-04 00:15:21 UTC"
         self.research_classification = "OPEN SOURCE/PROPRIETARY"
         
         self.active_research_projects = {
@@ -553,6 +560,7 @@ class LackadaisicalSecurityResearchDivision:
                 "progress": 95,
                 "team_size": 1,
                 "timeline": "4 months",
+                "funding": "Self-Managed",
                 "deliverables": ["QR-Encrypt-v2", "Lattice-Sign-Pro", "PQ-TLS"],
                 "impact": "Quantum-safe global infrastructure",
                 "publications": 3,
@@ -565,6 +573,7 @@ class LackadaisicalSecurityResearchDivision:
                 "progress": 95,
                 "team_size": 1,
                 "timeline": "1 month",
+                "funding": "Self-Managed",
                 "deliverables": ["AnonAuth-v3", "ZK-Identity-Pro"],
                 "impact": "Mass surveillance resistance",
                 "users_protected": "10K+ expected",
@@ -577,9 +586,10 @@ class LackadaisicalSecurityResearchDivision:
                 "progress": 90,
                 "team_size": 1,
                 "timeline": "2 months",
+                "funding": "Self-Managed",
                 "deliverables": ["ML-Guardian", "Prompt-Shield-Pro", "Model-Fortress"],
                 "impact": "AI system hardening at scale",
-                "models_protected": "REDACTED",
+                "models_protected": "REDACTED"
                 "threat_detection": "99.7% accuracy"
             },
             
@@ -589,6 +599,7 @@ class LackadaisicalSecurityResearchDivision:
                 "progress": 90,
                 "team_size": 1,
                 "timeline": "3 months",
+                "funding": "Self-Managed",
                 "deliverables": ["MixNet-Core-v2", "Onion-Router-NG"],
                 "impact": "Global censorship resistance",
                 "nodes_deployed": "1000+ worldwide",
@@ -601,6 +612,7 @@ class LackadaisicalSecurityResearchDivision:
                 "progress": 80,
                 "team_size": 1,
                 "timeline": "4 months",
+                "funding": "Self-Managed",
                 "deliverables": ["HW-Verify-Suite", "Supply-Chain-Guard"],
                 "impact": "Enterprise infrastructure protection",
                 "components_verified": "10M+ annually",
@@ -613,6 +625,7 @@ class LackadaisicalSecurityResearchDivision:
                 "progress": 100,
                 "team_size": 1,
                 "timeline": "Complete",
+                "funding": "Self-Managed",
                 "deliverables": ["ExploitGen-v4", "APT-Simulator"],
                 "impact": "Enhanced security testing",
                 "organizations_tested": "REDACTED",
@@ -716,6 +729,7 @@ class LackadaisicalSecurityResearchDivision:
 - **May 7th**: Linear-B-Decipherment repository published
   - Complete decipherment of Linear B Mycenaean Greek script — the only Aegean Bronze Age script already deciphered, now fully documented under the Lackadaisical framework
   - Definitive confidence level, 89+ lexicon entries (64 syllabograms + 14 ideograms + 11 LS-resolved signs with DEFINITIVE status)
+  - Research site: [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html)
 - **May 7th**: Dispilio-Tablet-Decipherment updated
   - Ancient Neolithic writing system from Dispilio, Greece (99.9998% confidence)
   - Comprehensive archaeological context, linguistic analysis, and cross-comparison with Vinča script
@@ -1257,6 +1271,17 @@ class LackadaisicalSecurityResearchDivision:
     <img src="https://img.shields.io/badge/Website-lackadaisical--security.com-blue?style=for-the-badge" alt="Website"/>
   </a>
 </div>
+
+## 💰 Support the Ghost Protocol
+
+**14+ ancient scripts deciphered. 85+ remain. Help keep knowledge free.**
+
+[![Ghost Protocol](https://img.shields.io/badge/👻_Ghost_Protocol-Crypto_Support-00FF00?style=for-the-badge)](https://github.com/Lackadaisical-Security/Lackadaisical-Security/blob/main/CRYPTO_SUPPORT.md)
+
+**Accepted**: BTC, ETH, XMR, BCH, LTC, DOGE  
+**Ethos**: Anonymous, decentralized, unstoppable
+
+[📜 View Wallet Addresses & Tiers](CRYPTO_SUPPORT.md)
 
 ## 📈 Repository Overview
 
