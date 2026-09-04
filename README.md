@@ -85,8 +85,8 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ║ ┌── OSINT/Intelligence: Digital forensics, Recon       ║
 ║ └── Human Security: Social engineering, Insider threats║
 ╠════════════════════════════════════════════════════════╣
-║ CURRENT STATISTICS (Updated May 2026):                ║
-║ • Total Repositories: 126 (46 public, 80 private)     ║
+║ CURRENT STATISTICS (Public links verified 2026-09-04):║
+║ • Repository totals: See the public index below       ║
 ║ • Active Security Projects: 30+                        ║
 ║ • Custom Tools Developed: 150+                         ║
 ║ • Programming Languages: 70+                           ║
@@ -113,12 +113,6 @@ $ sudo -u root whoami && cat /etc/security/profile.conf
 ║ Custom Lackadaisical Messenger                         ║
 ║ Email: lackadaisicalresearch@pm.me                     ║
 ║ Session + Other Privacy Messengers - Contact Me        ║
-║ • Session Details:                                     ║
-║   ┌── Last Login: 2026-05-08 04:27:00 UTC+09:00        ║
-║   ┌── Current User: Lackadaisical-Security             ║
-║   ┌── Active TTY: /dev/pts/0                           ║
-║   ┌── Shell: /bin/zsh (custom hardened)                ║
-║   └── Working Directory: /opt/security-research        ║
 ╚════════════════════════════════════════════════════════╝
 
 [NOTICE] All tools and frameworks are proprietary and custom-built  
@@ -412,7 +406,7 @@ Groundbreaking research in deciphering ancient undeciphered scripts:
 - **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script (Complete, 99.9% confidence) - [Research Site](https://lackadaisical-security.com/Cypro-Minoan-Research/index.html)
 - **[Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment)** - European Neolithic proto-writing (Complete, 99.9% confidence, 7,700+ years old) - [Research Site](https://lackadaisical-security.com/Vinca-Research/index.html)
 - **[Tartaria Tablets](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment)** - World's oldest writing candidate (c. 5,300 BCE) - [Research Site](https://lackadaisical-security.com/Tartaria-Tablets-Decipherment/index.html)
-- **[Dispilio Tablet](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment)** - a Neolithic proto-writing system encoded on a wooden tablet from Greece, dating to c. 5,260 BCE - *Resarch Site Coming Soon*
+- **[Dispilio Tablet](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment)** - a Neolithic proto-writing system encoded on a wooden tablet from Greece, dating to c. 5,260 BCE
 
 **Ancient Near Eastern Scripts:**
 - **[Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)** - Bronze Age syllabic script from Lebanon (Complete, 87% confidence) - [Research Site](https://lackadaisical-security.com/Byblos-Script-Research/index.html)
@@ -427,7 +421,6 @@ Groundbreaking research in deciphering ancient undeciphered scripts:
 
 **Translation & Analysis Tools:**
 - **[Spectral-Deepmesh-Copilot](https://github.com/Lackadaisical-Security/Spectral-Deepmesh-Copilot)** - Production-ready translation engine (v2.0.0) with 243 datasets, 17 script families, 364 SVG glyphs
-- **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Earlier multi-domain translation platform (30+ scripts, partial Rongorongo decipherment)
 - **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all 17+ public decipherment projects
 - **[Lackadaisical-Codex-Analyzer](https://github.com/Lackadaisical-Security/Lackadaisical-Codex-Analyzer)** - Production-grade audio analysis & linguistic processing system (v1.0.0)
 
@@ -713,6 +706,24 @@ class LackadaisicalSecurityResearchDivision:
 
 ## 🚨 Recent Activity
 
+### 📅 September 2026
+
+- **2026-09-03**: GitHub metadata records updates to the public documentation repositories [Spectre-History-publicdocs](https://github.com/Lackadaisical-Security/Spectre-History-publicdocs), [Mirror-Crypt-publicdocs](https://github.com/Lackadaisical-Security/Mirror-Crypt-publicdocs), [Ghost-Pay-Publicdocs](https://github.com/Lackadaisical-Security/Ghost-Pay-Publicdocs), [Dustbox-publicdocs](https://github.com/Lackadaisical-Security/Dustbox-publicdocs), [GhostDrive-OS](https://github.com/Lackadaisical-Security/GhostDrive-OS), [The-Ghost-Swarm](https://github.com/Lackadaisical-Security/The-Ghost-Swarm), [Spectre-Map](https://github.com/Lackadaisical-Security/Spectre-Map), and [Lackadiaiscal-MCP-Server-publicdocs](https://github.com/Lackadaisical-Security/Lackadiaiscal-MCP-Server-publicdocs).
+- **2026-09-01**: GitHub metadata records updates to [Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments) and [Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment).
+
+### 📅 August 2026
+
+- **2026-08-30**: GitHub metadata records an update to [GhostCrypt-PublicDocs](https://github.com/Lackadaisical-Security/GhostCrypt-PublicDocs), the public documentation repository for that system.
+
+### 📅 July 2026
+
+- **2026-07-12**: GitHub metadata records an update to [Meroitic-Script-Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment).
+- **2026-07-11**: GitHub metadata records updates to this profile repository and [Gradesnica-Tablet-Decipherment](https://github.com/Lackadaisical-Security/Gradesnica-Tablet-Decipherment).
+
+### 📅 June 2026
+
+- **2026-06-16**: GitHub metadata records updates to [Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment) and [Tartaria-Tablets-Decipherment](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment).
+
 ### 📅 May 2026
 
 - **May 7th**: Linear-B-Decipherment repository published
@@ -722,17 +733,6 @@ class LackadaisicalSecurityResearchDivision:
 - **May 7th**: Dispilio-Tablet-Decipherment updated
   - Ancient Neolithic writing system from Dispilio, Greece (99.9998% confidence)
   - Comprehensive archaeological context, linguistic analysis, and cross-comparison with Vinča script
-- **May 6th**: Lackadaisical-Ancient-Script-Copilot v2.0.1-alpha released
-  - Self-hosted local AI copilot for ancient script decipherment, translation, and statistical analysis
-  - 100% local via Ollama — no cloud, no subscriptions, no telemetry
-  - 115+ supported scripts, 12 language families, 95,000+ lexicon entries across 115 lexicons
-  - 17 LLM-callable tools: lexicon lookup, corpus search, Zipf/entropy analysis, cross-script correlation, glyph chaining
-  - Deep Research Pipeline: automated 9-stage multi-model research sessions with consolidated Markdown reports
-  - Dataset Browser with tier grouping (🟣 Expanded / 🟡 Master / ⚪ Basic), live filter, one-click pull preview
-  - Session History with date-grouped sessions, unified search across titles, messages, and lexicon database
-  - Vision support: upload inscription photos/PDFs for AI glyph analysis (gemma4, llama3.2-vision, aurora-elwing)
-  - Web Research tools: `web_search` + `web_fetch` for live scholarly research via Ollama API
-  - Security-hardened: SQLCipher v4, Argon2id key derivation, CSP, COEP/COOP, zero CDN, binds to 127.0.0.1 only
 - **May 6th**: Tartaria-Tablets-Decipherment updated
   - Neolithic European writing system from ancient Romania (99.8% confidence)
   - Pre-dates Sumerian writing — one of Europe's oldest known symbolic systems
@@ -746,7 +746,7 @@ class LackadaisicalSecurityResearchDivision:
   - 📚 **Research Hub**: Released-Decipherments central hub expanded with new projects
   - 🔬 **Analysis Engine**: Cross-script correlation, glyph chaining, entropy/Zipf analysis tools
   - 🌐 **Dataset**: 100+ dataset files across 12 language families
-  - 🔐 **Private Development**: Script-Switch (JavaScript) and 20+ additional private systems in active development
+  - 🔐 **Private Development**: Additional private systems remain undisclosed; public documentation is linked below
 
 ### 📅 April 2026
 
@@ -1285,8 +1285,8 @@ class LackadaisicalSecurityResearchDivision:
 
 ## 📈 Repository Overview
 
-- **Total Repositories**: 126 active repositories on GitHub (46 public, 80 private)
-- **Recently Updated**: 40+ repositories updated within the last 3 months (March-May 2026)
+- **Repository totals**: Private repository counts are intentionally not listed; see the public repository index below
+- **Recently Updated**: Public repository metadata verified through 2026-09-03
 - **Standalone Systems in Current Project**: 30+ sophisticated security, linguistic, and AI systems
 - **Repository Access**: View all public repositories at [https://github.com/Lackadaisical-Security?tab=repositories](https://github.com/Lackadaisical-Security?tab=repositories)
 - **Primary Focus Areas**: 
@@ -1302,13 +1302,13 @@ class LackadaisicalSecurityResearchDivision:
   - 📥 **Media & Download Utilities**: Secure content acquisition tools
   - ⚙️ **Development & Integration**: MSI installers, cross-platform frameworks, custom copilots, AI service monitors
 
-- **Development Status**: Actively maintained with regular updates and improvements (updated May 2026)
+- **Development Status**: Public repository activity verified through 2026-09-04
 - **Programming Languages**: Python, JavaScript, TypeScript, C/C++, Rust, Assembly, HTML, Node.js, 70+ total languages
 - **Architecture**: Zero-dependency, custom cryptographic implementations, multi-platform
 - **License Strategy**: Mix of MIT, Custom licenses, Ghost License v1.0, and Open Source for community access
 - **Repository Activity**: Consistent development across security, linguistics, AI, and privacy domains
 
-**🔗 GitHub Repository Links (Updated May 8, 2026):**
+**🔗 GitHub Repository Links (Verified 2026-09-04):**
 
 ### 📜 Ancient Language & Decipherment Projects
 - **[Linear-B-Decipherment](https://github.com/Lackadaisical-Security/Linear-B-Decipherment)** - Mycenaean Greek Bronze Age script — fully documented (May 2026, Definitive confidence)
@@ -1327,13 +1327,11 @@ class LackadaisicalSecurityResearchDivision:
 - **[Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)** - Minoan civilization script from ancient Crete (Complete, 92% confidence, 125-year mystery in 5 minutes)
 - **[Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)** - Ancient Iranian writing system (Complete, 91% confidence, 5,200 years old)
 - **[Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research)** - Late Bronze Age Cypriot script (Complete, 99.9% confidence)
-- **[Ancient-Language-Translators](https://github.com/Lackadaisical-Security/ancient-language-translators)** - Earlier translation platform for 30+ scripts
 - **[Lackadaisical-Codex-Analyzer](https://github.com/Lackadaisical-Security/Lackadaisical-Codex-Analyzer)** - Audio analysis & linguistic processing (v1.0.0)
 - **[Spectral-Deepmesh-Copilot](https://github.com/Lackadaisical-Security/Spectral-Deepmesh-Copilot)** - Advanced translation engine with 243 datasets (v2.0.0, April 2026)
 - **[Released-Decipherments](https://github.com/Lackadaisical-Security/Released-Decipherments)** - Central hub for all 14+ public decipherment projects
 
 ### 🤖 AI & Development Tools
-- **[Lackadaisical-Ancient-Script-Copilot](https://github.com/Lackadaisical-Security/Lackadaisical-Ancient-Script-Copilot)** - Local AI copilot for ancient script decipherment: 63+ scripts, 8,600+ lexicon entries, fully local via Ollama (v1.1.2-alpha, May 2026)
 - **[LSDAMM-publicdocs](https://github.com/Lackadaisical-Security/LSDAMM-publicdocs)** - Spectral Distributed AI MCP Mesh (v1.1.0, April 2026)
 - **[Spectral-Code](https://github.com/Lackadaisical-Security/Spectral-Code)** - AI-enhanced code editor with GhostMesh memory (Production, April 2026)
 - **[CopilotScope](https://github.com/Lackadaisical-Security/CopilotScope)** - Forensic-grade AI service monitor (v1.0.0, April 2026)
@@ -1386,29 +1384,23 @@ class LackadaisicalSecurityResearchDivision:
 *View all publicly available repositories at: https://github.com/Lackadaisical-Security?tab=repositories*
 
 **🔒 Note on Private Repositories:**
-Many high-end security systems, enterprise tools, and proprietary frameworks remain private. These include:
-- **Lackadaisical Messenger v1.3** - Cross-platform secure messaging with end-to-end encryption (Windows, macOS, Linux, iOS, Android)
-- **LackyVPN** - Operator-class privacy framework with 10-layer encryption and zero-logging
-- **GhostDrive OS** - Zero-persistence operating system for Linux and Windows with RAM-only execution
-- **MirrorCrypt v1.1** - Post-quantum secure storage and cloaking environment with steganography
-- **Lackadaisical Encrypt** - Zero-dependency encryption with custom crypto primitives
-- **Quantum Protector** - Advanced software protection with polymorphic encryption and anti-tampering
-- **Lackadaisical Network Analyzer** - Professional packet capture and deep inspection with MSI installer
-- **LTES v4.0.0** - Advanced traffic emulation system with AI/ML and quantum-resistant features
-- **File Scanner** - Advanced malicious file detection with enterprise MSI installer
-- **Lacky-MCP v2.0** - Model Context Protocol server with enhanced monitoring and analytics
-- **ComfyUI Integration** - Advanced AI image generation and processing platform
-- **Stable Diffusion WebUI** - Complete AI image generation with custom models
-- Plus 50+ other MSI-packaged, production-ready security tools, frameworks, and enterprise systems
+Private implementations and internal systems are not listed here. Where public documentation is available, use these public-facing repositories:
+- **[GhostDrive-OS](https://github.com/Lackadaisical-Security/GhostDrive-OS)** - Public documentation for GhostDrive OS
+- **[GhostCrypt-PublicDocs](https://github.com/Lackadaisical-Security/GhostCrypt-PublicDocs)** - Public cryptographic-system documentation
+- **[Mirror-Crypt-publicdocs](https://github.com/Lackadaisical-Security/Mirror-Crypt-publicdocs)** - Public documentation for Mirror Crypt
+- **[Spectre-History-publicdocs](https://github.com/Lackadaisical-Security/Spectre-History-publicdocs)** - Public documentation for Spectre History
+- **[Ghost-Pay-Publicdocs](https://github.com/Lackadaisical-Security/Ghost-Pay-Publicdocs)** - Public documentation for Ghost Pay
+- **[Dustbox-publicdocs](https://github.com/Lackadaisical-Security/Dustbox-publicdocs)** - Public documentation for Dustbox
+- **[Lackadiaiscal-MCP-Server-publicdocs](https://github.com/Lackadaisical-Security/Lackadiaiscal-MCP-Server-publicdocs)** - Public documentation for MCP server systems
 
-**Note:** Some previously private systems have been released as public documentation repositories (STONEDRIFT-3000, Spectre-Map, NullTrace, PhantomBrowser, etc.)
+Private source, internal paths, operational details, and non-public project names are intentionally omitted.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lackadaisical-Security&color=2bbc8a" alt="Profile Views"/>
   <br><br>
-  <em>Last updated: May 26, 2026 10:24 UTC+09:00</em>
+  <em>Public repository links verified: September 4, 2026</em>
   <br>
-  <em>Profile active since: 2024 | 126 repositories | 46 public projects</em>
+  <em>Profile active since: 2024 | See the public repository index above</em>
 </div>
 
 <div align="center">
@@ -1421,7 +1413,7 @@ Many high-end security systems, enterprise tools, and proprietary frameworks rem
 
 ⚖️ From [Lackadaisical-Security](https://github.com/Lackadaisical-Security) | 🌐 [lackadaisical-security.com](https://lackadaisical-security.com)
 
-**Last Login:** 2026-05-26 10:24:00 UTC+09:00 | **Current User:** Lackadaisical-Security | **Session:** Secure | **Uptime:** 99.99%
+**Documentation:** Lackadaisical Security 2025 | https://lackadaisical-security.com | support@lackadaisical-security.com
 
 </div>
 
